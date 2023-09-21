@@ -1,5 +1,5 @@
 # canadian-tire
-File name:
+File name: hot_sales.ipynb
 
 Data Scraping and Processing:
 
