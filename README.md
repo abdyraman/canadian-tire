@@ -2,11 +2,10 @@
 File name: hot_sales.ipynb
 
 Data Scraping and Processing:
-
 Utilized web scraping libraries like BeautifulSoup and Splinter to extract product information from the Canadian Tire website.
 Parsed product names, prices, old prices, star ratings, and review counts.
-Data Cleaning:
 
+Data Cleaning:
 Cleaned and structured the scraped data into lists for further processing and analysis.
 Removed unwanted characters, converted prices to numeric format, and handled missing values.
 Data Transformation:
@@ -25,16 +24,14 @@ Overall, the script effectively demonstrates how to scrape, clean, and structure
 
 File name: newprice_prediction_CanadianTire.ypunb
 Data Preprocessing:
-
 Loaded a dataset from "cantire_df.csv" and processed it by scaling relevant features using StandardScaler.
 Clustering:
 
 Utilized KMeans, AgglomerativeClustering, and Birch clustering algorithms to segment the data.
 Principal Component Analysis (PCA):
-
 Conducted PCA to reduce dimensionality and understand feature importance.
-Outlier Detection:
 
+Outlier Detection:
 Identified and handled outliers using the Interquartile Range (IQR) method.
 Linear Regression:
 
