@@ -1,5 +1,7 @@
 # canadian-tire
 
+
+File name: newprice_prediction_CanadianTire.ypunb
 Data Preprocessing:
 
 Loaded a dataset from "cantire_df.csv" and processed it by scaling relevant features using StandardScaler.
