@@ -1,677 +1,745 @@
-name,new_price,old_price,stars,observations,Savings,discount
-"MASTER Chef Energy Star Compact Refrigerator with Internal Freezer & Reversible Door for Dorms/Bedroom, 3.3-cu.ft., White",169.99,249.99,4.4,254,80.0,0.32
-"Sauder 3-Door Wardrobe/Armoire Clothes Storage Cabinet With Hanger Rod & Shelves, Espresso",189.99,299.99,3.8,93,110.0,0.37
-"For Living 30 Pint 2-Speed Dehumidifier, Bucket/Continuous Drain, ENERGY STAR® Certified, White",219.99,279.99,4.4,180,60.0,0.21
-"Lagostina 5-Ply Copper Clad Stainless Steel Cookware Set & Oven Safe, 12-pc",499.99,2499.99,4.3,127,1999.9999999999998,0.8
-"Lagostina Artiste-Clad Hand Hammered Stainless Steel Cookware Set, Oven Safe, 12-pc",299.99,1599.99,4.6,151,1300.0,0.81
-"For Living 6-ft Portable Indoor/Outdoor Plastic & Metal Folding Table with Handle, White",59.99,79.99,4.6,901,19.999999999999993,0.25
-Bissell ProHeat 2X® Revolution™ Pet Pro Upright Carpet & Upholstery Deep Cleaner,299.99,599.99,4.6,3921,300.0,0.5
-"Drive 4-Wheel Folding Aluminum Rollator with Seat, Backrest & Handbrake, Assorted Colours, 32-37-in Height",129.99,259.99,4.4,85,130.0,0.5
-Tineco iCarpet Portable Lightweight Upright Carpet Vacuum Cleaner,149.99,499.99,4.3,60,350.0,0.7
-"Ninja® Dual Zone Air Fryer w/ 4-in-1 Functions, Stainless Steel, Black, 7.5-L",189.99,269.99,4.7,1052,80.0,0.3
-"For Living Portable Vinyl Upholstered & Padded Metal Folding Chair, Black",14.99,19.99,4.0,179,4.999999999999998,0.25
-"Vida by PADERNO Air Fryer, 5.3-L",99.99,199.99,4.2,75,100.00000000000001,0.5
-"For Living 4-Door Open Shelf Freestanding Kitchen Pantry Storage Cabinet, White",209.99,309.99,3.8,196,100.0,0.32
-"Heritage The Rock Forged Non-Stick Cookware Set, Dishwasher & Oven Safe, Black, 10-pc",149.99,599.99,4.4,1359,450.0,0.75
-"PADERNO Classic Cookware Set, Non-Stick, PFOA-Free, Oven Safe, Champagne Bronze, 12-pc",199.99,699.99,4.5,125,500.0,0.71
-Tineco iFloor 3 Ultra Lightweight Cordless Wet/Dry Vacuum & Hard Floor Washer,349.99,499.99,4.7,34,150.0,0.3
-"For Living Wood Top Open Shelf Kitchen Storage Island With Folding Leaf, White",299.99,449.99,4.2,204,150.0,0.33
-BISSELL Adapt Li-Ion Max 2-in-1 Lightweight Cordless Stick Vacuum Cleaner,129.99,259.99,3.9,730,130.0,0.5
-"Certified 5-Shelf Resin/ Plastic Storage Rack/ Shelving Unit, 36 x 24 x 72-in",54.99,79.99,4.4,248,24.999999999999993,0.31
-"Keurig® K-Select Single Serve Coffee Maker, Black",139.99,169.99,4.5,477,30.0,0.18
-Chamberlain® C2405C 1/2-HP Chain Drive Garage Door Opener with Wi-Fi,279.99,379.99,4.4,125,100.0,0.26
-"MASTER Chef Countertop Microwave, 0.7-cu.ft.",79.99,99.99,4.2,336,20.0,0.2
-"type A Restore Stackable Storage Box with Lid, 68-L, Green",7.99,15.99,4.1,238,8.0,0.5
-"Panasonic NN-SU64LB Countertop Microwave Genius Sensor Cooking, 1.3-cu.ft., Matte Black",179.99,209.99,4.3,250,30.0,0.14
-"type A Restore Stackable Storage Box with Lid, 68-L, Red",7.99,15.99,4.0,239,8.0,0.5
-"Sauder 2-Door Wardrobe/Armoire Clothes Storage Cabinet With Hanger Rod & Shelves, Espresso",139.99,229.99,3.3,29,90.0,0.39
-"Mastervac AT18115P 4.0 Peak HP Poly Wet/Dry Shop Vacuum with Hose and Accessories, 18.9-L",59.99,89.99,4.1,187,29.999999999999993,0.33
-"For Living Orleans 2-Door Over-The-Toilet Spacesaver Bathroom Storage Cabinet, White",79.99,119.99,3.4,173,40.0,0.33
-Bissell Proheat2x® Revolution™ Pet Carpet & Upholstery Deep Cleaner,249.99,499.99,4.3,1866,250.0,0.5
-"Lagostina Artiste-Clad Copper Cookware Set & Oven Safe, 12-pc",449.99,1999.99,4.4,76,1550.0,0.78
-Miele Complete C3 Limited Edition Multi-Floor Canister Vacuum Cleaner,499.99,749.99,4.6,99,250.0,0.33
-"Sauder 2-Door Wardrobe/Armoire Clothes Storage Cabinet With Hanger Rod & Shelves, White",139.99,229.99,3.3,33,90.0,0.39
-"iRobot® Roomba® 671 Robot Vacuum – Self Charging, Wi-Fi Connected, Good for Pet Hair",289.99,439.99,4.0,754,150.0,0.34
-"CANVAS Ashcroft Media Console Electric Fireplace TV Stand, 60-in, 1400W, Includes Remote Control, White",549.99,929.99,4.2,46,380.0,0.41
-"PADERNO Classic Cookware Set, Non-Stick, Maroon, 11-pc",199.99,699.99,4.3,106,500.0,0.71
-"For Living Wood Top Kitchen Utility Storage Cart/Island With Locking Wheels, White",209.99,309.99,4.4,175,100.0,0.32
-"Cuisinart® Convection Air Fryer Toaster Oven w/ 7 Functions, Stainless Steel",229.99,399.99,4.1,373,170.0,0.43
-"Ninja® Professional Blender, BPA-Free, Stainless Steel, 1000W",99.99,149.99,4.3,232,50.000000000000014,0.33
-"Graco Pack ‘n Play Travel Dome LX Playard, Ashland",249.99,349.99,4.6,242,100.0,0.29
-"T-fal Viva Aluminum Frying Pan Non-stick, Dishwasher & Oven Safe, Black",11.99,39.99,4.5,692,28.0,0.7
-"ClosetMaid Expandable Closet Organizer Kit with 3-Closet Rod, White, 12-in",95.99,119.99,4.0,118,24.0,0.2
-Woods™ Heritage Cast Iron Non-Stick Camping Cook Set,119.99,199.99,3.9,44,80.00000000000001,0.4
-"SentrySafe Extra-Large Steel Security Fire Safe Box With Digital Keypad, 34.8-L, Black",329.99,439.99,4.3,619,110.0,0.25
-"Black & Decker Extra Wide Slots Toaster w/ 7 Settings, Black, 4-Slices",39.99,69.99,4.3,1104,29.999999999999993,0.43
-"ClosetMaid Suite Symphony Starter Tower Kit, White, 25-in",191.99,239.99,4.4,41,48.0,0.2
-BISSELL AeroSwift® Compact Bagless Upright Bagless Vacuum Cleaner,79.99,159.99,4.3,389,80.00000000000001,0.5
-La Crosse Wireless Weather Forecaster & Wind Gauge Digital Thermometer,74.99,149.99,3.6,393,75.00000000000001,0.5
-"For Living 2-Door 1-Drawer Microwave Cart/Stand Kitchen Storage Cabinet With Wheels, White",149.99,199.99,3.4,181,50.0,0.25
-"For Living 2-Door 1-Drawer Microwave Cart/Stand Kitchen Storage Cabinet With Wheels, White",149.99,199.99,3.4,181,50.0,0.25
-"Panasonic NN-SU64LW Countertop Microwave Genius Sensor Cooking, 1.3-cu.ft., Matte White",179.99,209.99,4.0,221,30.0,0.14
-Harmony Dash Backless Booster Car Seat,14.99,24.99,4.7,69,9.999999999999998,0.4
-For Living Mantel Fireplace,399.99,649.99,5.0,6,250.0,0.38
-BISSELL PowerLifter Swivel Rewind Bagless Upright Vacuum Cleaner,149.99,299.99,4.2,314,150.0,0.5
-"Garrison 1A10BC Heavy-Duty Rechargeable Fire Extinguisher With Wall Mounting Brackets, 2.5-lb, Red",35.99,39.99,4.5,111,4.0,0.1
-"MASTER Chef Energy Star Chest Freezer with Front-Mount Thermostat for Dorms/Bedroom, 3.5-cu.ft., White",279.99,299.99,4.5,115,20.0,0.07
-"type A Deep Clear Grey Frame 5-Drawer Storage Tower/Cart with Wheels, 39-in",34.99,49.99,4.0,158,15.0,0.3
-"Vida by PADERNO Air Fryer Toaster Oven, 6-Slice",154.99,259.99,4.0,44,105.0,0.4
-"Bluehive 8,000 mAh Power Bank with Battery Charge Indicator",12.0,49.99,4.2,214,37.99,0.76
-"For Living 6-ft Portable Indoor/Outdoor Plastic & Metal Centre Folding Bench, White",49.99,69.99,4.8,43,19.999999999999993,0.29
-"For Living Reversible 5-Blade 3-Speed Ceiling Fan with Lighting, 42-in, Black/Walnut",79.99,99.99,3.5,117,20.0,0.2
-"CANVAS Copenhagen 2-Tier 3-Drawer Bookcase For Storage & Display, White",199.99,279.99,3.8,68,80.0,0.29
-"type A Clear Black Frame 8-Drawer Storage Tower/Cart with Wheels, 46-in",39.99,59.99,3.8,183,20.0,0.33
-"T-fal Easy-Fry Air Fryer, 3.5-L",79.99,179.99,4.2,98,100.00000000000001,0.56
-"Lagostina Tuscan Collection Round Casserole Dish, Enamelled Cast Iron, Orange, 4qt",69.99,299.99,4.6,182,230.0,0.77
-"CANVAS Canmore Media Console Electric Fireplace TV Stand, 54-in, 1400W, Includes Remote Control, Brown",339.99,569.99,4.3,95,230.0,0.4
-"Heritage The Rock Jumbo Cooker, Non-Stick, PFOA-Free, Oven & Dishwasher Safe, 30cm",39.99,169.99,4.6,1268,130.0,0.76
-"T-fal Air Grip Aluminum Frying Pan Non-stick, Dishwasher & Oven Safe, Blue",19.99,79.99,4.6,475,60.0,0.75
-"Lagostina Ticino Stainless Steel Cookware Set & Oven Safe, 10-pc",149.99,599.99,4.3,125,450.0,0.75
-Tineco Carpet One Smart Corded Upright Deep Carpet Vacuum Cleaner,299.99,599.99,4.4,86,300.0,0.5
-Blink Outdoor HD 2-Camera System,167.99,239.99,4.6,21,72.0,0.3
-"Komodo Freestanding Electric Fireplace Stove, 17.5-in, 1400W, Realistic Flame Effect, Black",124.99,249.99,3.8,120,125.00000000000001,0.5
-"For Living Portable High-Back Upholstered & Padded Metal Folding Chair, Beige",29.99,37.99,4.5,170,8.000000000000004,0.21
-"BISSELL Pet Pro Pet Hair Eraser Lithium Ion Max Cordless Handheld Vacuum Cleaner, 16V",99.99,149.99,4.6,973,50.000000000000014,0.33
-Harmony High Back Booster Car Seat with Latch,69.99,119.99,4.5,103,50.0,0.42
-"Vida by PADERNO Fridge with Handle, Gold/White, 4.4-cu-ft",299.99,399.99,2.3,4,100.0,0.25
-"Instant Pot® Duo Crisp 11-in-1 Pressure Cooker w/ Air Fryer, Stainless Steel, 8qt",249.99,289.99,4.6,112,40.0,0.14
-"NOMA LED Flush Mount Ceiling Light Fixture, White, 10-in",19.99,29.99,4.6,281,10.0,0.33
-"Ninja® Nutri Personal Blender w/ 2 Travel Jars, Silver, 591mL",74.99,109.99,4.8,224,35.0,0.32
-"T-fal Platinum Azure Multi-Layered Forged Non-Stick Cookware Set, 10-pc",149.99,599.99,4.7,145,450.0,0.75
-"type A Transparent Stackable Storage Box with Lid, 39-L",9.99,14.99,4.0,63,5.0,0.33
-"T-fal Easy Fry & Grill Flexcook, XXL, 6.5-L",159.99,289.99,4.7,91,130.0,0.45
-"3M™ Filtrete™ Combo Pack, Micro Allergen Filter MPR 1000 & Ultra Allergen Filter MPR 1500, 16 x 25 x 1-in, 3-pk",45.99,57.99,4.6,225,12.0,0.21
-"Cuisinart® Brew Central Programmable Coffee Maker w/ Glass Carafe, Stainless Steel, 12 Cups",109.99,139.99,4.2,412,30.000000000000014,0.21
-"type A Clear Grey Frame 3-Drawer Storage Tower/Cart with Wheels, 26-in",19.99,29.99,4.1,202,10.0,0.33
-"SentrySafe Small Steel Security Fire Safe Box With Combination Lock, 23-L, Black",239.99,299.99,4.1,205,60.0,0.2
-Bissell PowerFresh Hard Floor Steam Mop Cleaner,99.99,199.99,4.5,2339,100.00000000000001,0.5
-"Vida by PADERNO Japanese Steel Knife Block Set, Ergonomic Grip, 14-pc",99.99,319.99,4.5,52,220.0,0.69
-"type A Clarity Transparent Storage Box with Lid, 50-L",14.99,18.99,4.4,95,3.9999999999999982,0.21
-Regalo Wall-Safe Extra Wide Safety Gate,49.99,79.99,4.4,63,29.999999999999993,0.38
-X Rocker Raven Gaming Desk,129.99,239.99,4.4,65,110.0,0.46
-"Purina AlPo Cookout Classics Pork, Beef, Chicken and Veggie Adult Dry Dog Food, 16-kg",31.59,37.99,4.6,648,6.400000000000002,0.17
-"Vida by Paderno Bamboo Cutting Board, Non-Slip, 12-in x 18-in",12.99,49.99,4.4,596,37.0,0.74
-"Lagostina Cast Iron Preseasoned Frying Pan, Oven & Broiler Safe, Black, 26-cm",19.99,99.99,4.2,247,80.0,0.8
-"Heritage LED Display Air Fryer with Grill, 6-L",99.99,279.99,4.5,25,180.0,0.64
-"MASTER Chef Double Burner Hot Plate, Black, 1500W",39.99,54.99,3.6,199,15.0,0.27
-"type A Stainless Steel Rectangular 2-Compartment Step Garbage Can, 2 x 15-L",65.24,86.99,4.2,118,21.75,0.25
-"Hamilton Beach Non-Stick Panini Grill Press/Sandwich Maker, Stainless Steel",49.99,79.99,4.4,185,29.999999999999993,0.38
-"type A Clarity Transparent Storage Box with Lid, 32-L",12.99,16.99,4.2,106,3.9999999999999982,0.24
-"E-Zee Wrap Plastic Wrap Refill, 1000-ft",13.99,18.99,4.5,195,4.999999999999998,0.26
-"CANVAS Copenhagen 2-Drawer Home Office Writing Console Desk/Table With Wood Legs, White",174.99,239.99,3.4,99,65.0,0.27
-"PADERNO Classic Frying Pan PFOA-Free Non-Stick, Maroon, 20cm",24.99,84.99,4.6,296,60.0,0.71
-"Cuisinart® Professional Food/Meat Slicer, 7.5-in Blade, Stainless Steel",99.99,159.99,3.1,218,60.000000000000014,0.38
-Woods 10K Grab-N-Go Heater,99.99,139.99,3.4,11,40.000000000000014,0.29
-"Mr. Coffee Hot Coffee, Iced Coffee & Frappe Maker with Integrated Blender & 2 Tumblers, Black",129.99,149.99,4.2,213,20.0,0.13
-"Black & Decker Crisp 'N bake 6-Slice Air Fryer Toaster Oven, Stainless Steel, 5 Cooking Functions",99.99,144.99,4.3,72,45.000000000000014,0.31
-Diono New Cambria 2 Booster,129.99,149.99,4.4,22,20.0,0.13
-"PADERNO Classic Jumbo Cooker, PFOA-Free, Non-Stick, Red, 3qt",44.99,159.99,4.4,229,115.0,0.72
-"MASTER Chef Stainless Steel Scissor Set, Ergonomic Grip, 3-pc",5.99,9.99,4.5,292,4.0,0.4
-"Black & Decker 4-Slice Toaster Oven with Natural Convection, Stainless Steel, 4 Cooking Functions",49.99,69.99,4.3,49,19.999999999999993,0.29
-"Heritage The Rock Family-Sized Non-Stick Electric Griddle/Party Grill, Black, 19x13-in",69.99,119.99,4.3,1042,50.0,0.42
-"Omega Horizontal Slow Juicer, Stainless Steel, 150W, 4 Cups",239.99,299.99,4.3,133,60.0,0.2
-"MASTER Chef Stainless Steel Mixing Bowls with Plastic Lids, 3-pk",18.49,36.99,4.0,97,18.500000000000004,0.5
-"World's Best Natural Clumping Cat Litter Formula, Unscented, 12.7-kg",44.99,49.99,4.4,65,5.0,0.1
-"type A Clarity Transparent Storage Box with Lid, 15-L",7.99,9.99,4.4,79,2.0,0.2
-"BestAir MERV 8 Household Dust Reduction Pleated Furnace Air Filters, MPR 600, 16 x 25 x 1-in, 3-pk",12.99,159.99,4.4,78,147.0,0.92
-"simplehuman Stainless Steel and Plastic Rectangular Step Garbage Can, 45-L",143.99,8.99,4.7,447,-135.0,-15.02
-"simplicité Regular 4-Flap Ties Outdoor Garbage Bags, 40-pk, Black, 74-L",5.0,279.99,4.1,204,274.99,0.98
-"For Living Brookfield 2-Door Over-The-Toilet Spacesaver Bathroom Storage Cabinet, White",189.99,124.99,3.6,52,-65.00000000000001,-0.52
-"NOMA Indoor Double LED Strip Light, 4500 Lumens, 4-ft, Cool White, 50W",39.99,149.99,4.1,72,110.0,0.73
-"T-fal Easy Fry & Grill Precision 2-in-1 Air Fryer w/ Extra Crisp Technology, Stainless Steel, 4.2-L",149.99,239.99,4.5,68,90.0,0.38
-"Salton Cordless Temperature Control Electric Kettle w/ Tea Infuser/Steeper & Auto Shut Off, Glass, 1.7L",59.99,84.99,4.3,150,24.999999999999993,0.29
-"T-fal Easy Fry & Grill Precision 2-in-1 Air Fryer w/ Extra Crisp Technology, Black, 4.2L",119.99,199.99,4.6,216,80.00000000000001,0.4
-"NOMA A19 E26 Base Non-Dimmable LED Light Bulbs, 800 Lumens, Daylight, 60W, 8-pk",12.99,21.99,4.1,299,8.999999999999998,0.41
-"Garrison Rechargeable Compact Fire Extinguisher With Wall Mounting Bracket, 1-lb, Red",26.99,29.99,4.3,59,3.0,0.1
-Regalo Swing Down Bed Rail,31.99,39.99,4.5,36,8.000000000000004,0.2
-"type A Clarity Transparent Storage Box with Lid, 9-L",4.79,5.99,4.2,78,1.2000000000000002,0.2
-"Energizer Max 16-pk AAA Alkaline Batteries, Long Lasting, All Purpose",17.0,22.99,4.9,1728,5.989999999999998,0.26
-"Mr. Clean Disinfectant Multi-Surface Cleaner, Summer Citrus, 3.78-L",14.39,15.99,4.6,33,1.5999999999999996,0.1
-"type A Natural Wood Hangers, 18-pk",14.99,19.99,4.1,21,4.999999999999998,0.25
-"Pink Solution SCRUB Non-Toxic Hard Surface Cleaner, 500-g",13.49,14.99,4.1,32,1.5,0.1
-"type A Clarity Transparent Storage Box with Lid, 60-L",16.99,21.99,4.5,118,5.0,0.23
-"Heritage Commercial Aluminum Stock Pot, Oven Safe, 10qt",49.99,129.99,3.8,45,80.0,0.62
-"Disposable Gloves, 100-pk",7.49,14.99,4.1,85,7.5,0.5
-"MASTER Chef AirFryer Toaster Oven w/ 5 Functions, Black",99.99,174.99,4.3,178,75.00000000000001,0.43
-Regalo Super Wide Baby Safety Gate & Playard,99.99,119.99,3.5,18,20.0,0.17
-Philips Series 9000: S9311/27 Wet & Dry Electric Razor/Rotary Shaver with SmartClean System,239.99,319.99,4.3,1137,80.0,0.25
-"Energizer Max Alkaline AA Batteries, 24-pk",17.0,22.99,4.8,2358,5.989999999999998,0.26
-"CANVAS Eastwood Electric Fireplace TV Stand, 60-in, 1500W, Includes Remote Control, Brown",599.99,949.99,4.0,62,350.0,0.37
-Type A Alpha Under-Sink Metal Storage Organizer Rack/Stand with Pull-Out Basket Drawers,24.99,46.99,4.2,103,22.000000000000004,0.47
-"MASTER Chef Corded Hand Blender with Whisk, Stainless Steel, Black",34.99,59.99,4.0,60,25.0,0.42
-"PADERNO Canadian Signature Stainless Steel Cookware Set, Dishwasher & Oven Safe, 13-pc",299.99,999.99,4.4,90,700.0,0.7
-"Lagostina Cast Iron Preseasoned Frying Pan, Oven & Broiler Safe, Black, 30-cm",34.99,119.99,4.2,202,85.0,0.71
-"For Living Wall Mount Cabinet With Baskets, White",189.99,249.99,2.3,3,60.0,0.24
-"MASTER Chef Bottom Load Water Cooler/Dispenser, 3 Temperatures, Matte Black",319.99,369.99,3.9,67,50.0,0.14
-"Green Gobbler Mainline Drain Opener, Unscented, 3.8-L",26.99,29.99,3.9,38,3.0,0.1
-"Bounty Select-A-Size Double Plus Roll Paper Towel, 2-ply, 8-pk",19.99,69.99,4.5,5397,50.0,0.71
-"Olympia Pack 'n Roll Steel Folding Hand Truck, 200-lb",59.99,154.99,3.8,173,95.0,0.61
-"For Living Nordica Reversible 6-Blade 3-Speed Ceiling Fan with LED Lighting, 36-in, Walnut/White",119.99,479.99,3.8,101,360.0,0.75
-Evenflo All4One All-In-One Car Seat,379.99,119.99,4.1,262,-260.0,-2.17
-"T-fal Easy Pro Deep Fryer, Stainless Steel, 3L",79.99,159.99,4.1,103,80.00000000000001,0.5
-"T-fal EZ Clean Pro Compact Deep Fryer w/ Oil Filter, Stainless Steel, 2L",99.99,139.99,4.1,231,40.000000000000014,0.29
-"Heritage The Rock Aluminum Traditional Wok Stir Fry Pan, Non-Stick, 30cm",34.99,21.99,4.6,272,-13.000000000000004,-0.59
-"NOMA A19 E26 Base Non-Dimmable LED Light Bulbs, 800 Lumens, Warm White, 60W, 8-pk",12.99,89.99,3.8,161,77.0,0.86
-"Libman Commercial Wringer & Mop Bucket with Hook, Yellow, 30L",71.99,339.99,4.1,21,268.0,0.79
-"X Rocker Strike RGB Ergonomic Adjustable Swivel PC Gaming/Office Chair w/ LED Light, Black",249.99,10.49,3.9,34,-239.5,-22.83
-"Affresh Washing Machine Cleaner Tabs, Fresh Scent, 120-g, 3-pk",9.44,22.99,4.5,2765,13.549999999999999,0.59
-"Eco-Max Liquid Laundry Detergent, Lavender Scent, 210-Load, 6.21-L",17.99,34.99,4.7,158,17.000000000000004,0.49
-"Bluehive Ultra-Thin Fast Wireless 15W Charging Pad, for Qi-Enabled Devices",9.99,59.99,3.8,351,50.0,0.83
-"SentrySafe Small Fire Safe Security Chest with Key Lock, Black, 5-L",44.99,99.99,4.5,705,54.99999999999999,0.55
-"PADERNO Signature Smart Stacking Ceramic Bakeware, Red, Assorted Sizes, 4-pc",49.99,99.99,3.6,25,49.99999999999999,0.5
-"KitchenAid Gourmet Crock Set, 8-pc",49.99,259.99,4.1,22,210.0,0.81
-"ClosetMaid Wire Shelf Track Closet Organizer Kit, White, 5-ft x 8-ft",207.99,17.99,4.6,12,-190.0,-10.56
-"Swiffer Sweeper 2-in-1 Dry + Wet Floor Mopping and Sweeping Kit, Multi-Surface, Includes 1 Sweeper, 7 Dry Cloths, 3 Wet Cloths",16.19,34.99,4.1,1479,18.8,0.54
-"Vida by Paderno Faux Granite Cutting Boards, Dishwasher Safe, Assorted Sizes, 2-pk, Grey/White",18.99,139.99,4.3,80,121.00000000000001,0.86
-"Conair 1550W Handheld Clothes Steamer, 17 Minutes of Continuous Steam, 40 Second Heat Up",64.99,74.99,3.8,51,10.0,0.13
-"Cuisinart® Round, Non-Stick Waffle Maker, Stainless Steel",49.99,99.99,4.3,243,49.99999999999999,0.5
-"National Indoor/Outdoor Rug, Assorted Colours, 6-ft x 8-ft",24.99,49.99,3.7,60,25.000000000000004,0.5
-"VTech DECT 6.0 Cordless Phones with Digital Answering System, 2 Handsets, Silver/Black",51.99,69.99,4.1,62,17.999999999999993,0.26
-"Bar Keepers Friend Multi-Purpose Soft Cleanser, 737-g",4.0,5.99,4.7,303,1.9900000000000002,0.33
-"type A Clarity Transparent Storage Box with Lid, 2-L",1.79,2.29,4.6,62,0.5,0.22
-Philips Series 3000: S3133/51 Wet & Dry Electric Razor/Rotary Shaver with Pop-Up Trimmer,69.99,89.99,4.2,292,20.0,0.22
-"Old Dutch Absolute Clean Liquid Laundry Detergent, Morning Breeze Scent, 185-Load, 7.4-L",10.0,12.99,4.6,90,2.99,0.23
-"MotoMaster 10,000-lb Commercial Ratchet Tie Down Straps, with Ultra Padded Handles, 2-in x 30-ft",29.99,34.99,4.6,24,5.0000000000000036,0.14
-"Certified Standard Duty Poly Tarp, Waterproof, 12-ft x 16-ft",21.59,26.99,4.1,62,5.399999999999999,0.2
-"Black & Decker Kitchen Tools® Extra Wide Slots Toaster w/ 7 Settings, Stainless Steel, 2-Slices",39.99,69.99,3.3,322,29.999999999999993,0.43
-"Anchor Hocking Glass Bake 'n' Keep Set with Plastic Lids, 4-pc",16.99,29.99,3.8,183,13.0,0.43
-"Anchor Hocking Round Glass Storage Set, Assorted Sizes, 8-pc",9.99,19.99,4.2,386,9.999999999999998,0.5
-"Eco-Max Liquid Laundry Detergent, Orange Scent, 210-Load, 6.1-L",17.99,22.99,4.8,27,5.0,0.22
-"Certified 45 Lumens 6V Durable and Waterproof LED Floating Lantern, Battery Included, Orange",8.99,12.99,3.4,142,4.0,0.31
-"For Living Nordica Reversible 6-Blade 3-Speed Ceiling Fan with Lighting, 36-in, White",119.99,154.99,3.9,107,35.000000000000014,0.23
-"CANVAS Claremont 40pc Porcelain Dinnerware Set with Dinner Bowl, Serves 8, White",119.99,289.99,3.1,121,170.0,0.59
-"Duracell Coppertop 24-pk AA Alkaline Batteries, Long Lasting, All Purpose",20.49,25.99,4.7,3828,5.5,0.21
-"Bar Keepers Friend Stainless Steel Powder Cleanser, 595-g",4.0,5.99,4.8,115,1.9900000000000002,0.33
-"PADERNO Steak Knives Set, 4-pc",59.99,99.99,5.0,8,39.99999999999999,0.4
-"Comet Scratch Free Cleaning Powder with Bleach, 600-g",1.5,2.29,4.8,127,0.79,0.34
-Everlast RCVR 6.0 Percussion Massage Tool,139.99,239.99,3.0,6,100.0,0.42
-"CANVAS Elena 2-Door Over-The-Toilet Spacesaver Bathroom Storage Shelf/Cabinet, Grey",204.99,309.99,4.1,30,105.0,0.34
-"Cashmere Ultra Triple Roll Toilet Paper, 3-ply Tissue, 24-pk",17.99,17.99,4.5,155,0.0,0.0
-"MASTER Chef Baking Sheet, 17-in",8.99,87.99,4.0,55,79.0,0.9
-"CLR Calcium, Lime & Rust Remover Refill, Septic Safe, 3.78-L",28.79,31.99,4.6,65,3.1999999999999993,0.1
-"For Living Framed Medicine Cabinet, Black, 20-in x 26-in",134.99,179.99,5.0,3,45.0,0.25
-"Heritage Digital Convection Air Fryer Toaster Oven, Silver",199.99,299.99,4.1,216,100.0,0.33
-"T-fal Giant Aluminum Frying Pan Non-stick, Dishwasher & Oven Safe, Black, 34cm",24.99,84.99,4.4,187,60.0,0.71
-Regalo Wall-Safe Extra Tall Safety Gate,59.99,89.99,4.4,27,29.999999999999993,0.33
-"Dawn Ultra Platinum Liquid Dish Soap Refill, Refreshing Rain Scent, 2.21-L",11.69,12.99,4.7,52,1.3000000000000007,0.1
-"Concrobium Mold Control Spray Bottle, 946-mL",12.14,13.49,4.0,103,1.3499999999999996,0.1
-"Anchor Hocking Glass Storage Container Set, 2-Cup, 6-pc",7.99,19.99,4.3,190,11.999999999999998,0.6
-"Mr. Coffee Programmable Coffee Maker w/ Glass Carafe, Automatic Cleaning Cycle, Stainless Steel, 12 Cup",79.99,99.99,4.1,57,20.0,0.2
-"Cuisinart® SmartStick® 2-Speed Corded Hand Blender w/ Chopper & Whisk Attachments, Stainless Steel",69.99,79.99,4.2,215,10.0,0.13
-"Vida by PADERNO Stainless Steel Toaster, 2-Slice",64.99,99.99,4.2,27,35.0,0.35
-"Hamilton Beach Easy Acess Programmable Coffee Maker, Stainless Steel, 14 Cups",79.99,154.99,3.5,153,75.00000000000001,0.48
-"Libman Heavy-Duty Curved Floor Squeegee , 24-in",35.99,44.99,4.2,46,9.0,0.2
-Swiffer Duster Heavy Duty 3 ft Extendable Handle Starter Kit with 4 Refills,14.39,15.99,4.1,303,1.5999999999999996,0.1
-"NOMA A19 E26 Base Non-Dimmable LED Light Bulbs, 1550 Lumens, Daylight, 100W, 4-pk",21.59,35.99,4.2,101,14.400000000000002,0.4
-"Cashmere Triple Roll Toilet Paper, 2-ply Tissue, 24-pk",17.99,119.99,4.5,142,102.0,0.85
-"T-fal Platinum Azure Multi-Layered Forged Non-Stick Frypan, 30-cm",29.99,40.99,4.6,171,11.000000000000004,0.27
-"CANVAS Mercantile Cage Shade Ceiling Pendant Light Fixture, Black",29.99,15.99,4.9,12,-13.999999999999998,-0.88
-"Clorox Disinfecting Wipes, 3 x 75-ct",14.39,119.99,4.9,8,105.6,0.88
-"T-fal Element Wide Slots Toaster w/ 6 Settings, Stainless Steel, 4-Slices",69.99,63.99,4.0,142,-5.999999999999993,-0.09
-"Woods™ Enamel Family Tableware Set, 12-pc",47.99,16.49,3.7,10,-31.500000000000004,-1.91
-"Mastercraft Telescopic Extendable Window Washer / Squeegee with Scrub Netting, 7-ft",11.99,89.99,3.2,101,78.0,0.87
-Philips Series 1000: S1332/41 Dry Electric Razor/Rotary Shaver with Pop-Up Trimmer,49.99,29.99,3.8,700,-20.000000000000004,-0.67
-"Old Dutch Liquid Multi-Purpose Laundry Bleach, 2.4-L",3.0,4.49,4.5,81,1.4900000000000002,0.33
-"Henckels Rapture 20pc Stainless Steel Flatware Set, Serves 4",49.99,99.99,4.7,95,49.99999999999999,0.5
-"MASTER Chef Multi-Purpose Commercial Roaster with Rack, Dishwasher Safe, 9-12 lb, 25.4 x 38cm",14.99,49.99,3.3,256,35.0,0.7
-"VTech DECT 6.0 Cordless Phone System with Caller ID, 4 Handsets, Silver/Black",74.99,99.99,3.9,61,25.0,0.25
-Type A Bamboo Expandable Cutlery/Kitchen Utensil Drawer Organizer Tray/Holder,19.99,24.99,4.5,80,5.0,0.2
-"CANVAS Manhattan Floating Wall Shelf, Assorted Colours, 36-in",39.99,49.99,3.9,20,10.0,0.2
-"Conair 1100W Handheld Clothes Steamer, 5 Minutes of Continuous Steam, 60 Second Heat Up",36.99,76.99,4.0,41,39.99999999999999,0.52
-"CANVAS Manhattan Floating Wall Shelf, Assorted Colours, 24-in",29.99,37.99,3.6,38,8.000000000000004,0.21
-"Scotties House & Home Facial Tissue, 2-Ply, 126 Sheets, 18-pk",17.99,54.99,3.5,134,37.0,0.67
-"simplehuman Stainless Steel Rectangular Step Garbage Can, 10-L",49.49,8.99,4.6,141,-40.5,-4.51
-"CLR Calcium, Lime and Rust Remover Cleaner, Septic Safe, 828-mL",7.49,59.99,4.4,303,52.5,0.88
-La Crosse Wireless Weather Station Digital Thermometer,24.99,199.99,4.0,417,175.0,0.88
-Cuisinart DGB-400C Automatic Grind & Brew 12-Cup Coffee Maker,139.99,69.99,3.8,31,-70.00000000000001,-1.0
-"Type A Stay Expandable Pull-Out Storage Drawer/Basket For Kitchen Cupboard/Cabinet, Chrome",54.99,269.99,4.1,26,215.0,0.8
-"CANVAS Tobin 4-Light Ceiling Pendant Light Fixture, Oil Rubbed Bronze",199.99,159.99,4.9,21,-40.0,-0.25
-"CANVAS Jaxton Industrial Ceiling Pendant Light Fixture, Black Metal",119.99,39.99,4.0,10,-80.0,-2.0
-"simplehuman Heavy-Duty Steel Frame Cabinet Door Hanging Plastic Garbage Can, Black, 10-L",35.99,69.99,4.6,237,33.99999999999999,0.49
-"Black & Decker Helix Hand Mixer, Premium Performance 5 Speed Hand Mixer, Includes 5 Attachments and Case, Black",36.99,29.99,4.6,407,-7.0000000000000036,-0.23
-"SpongeTowels Ultra Choose-A-Size Giant Roll Paper Towels, 2-ply, 12-pk",17.99,34.99,4.8,53,17.000000000000004,0.49
-"MASTER Chef Square Glass Kitchen Scale, White, 5-kg",14.99,36.99,4.0,150,22.0,0.59
-"Tide PODS Free and Gentle Laundry Detergent Soap Pacs, 112 ct",31.49,46.99,4.1,110,15.500000000000004,0.33
-"Whiskas Meaty Selections Dry Cat Food, 9.1-kg",33.29,8.99,4.6,117,-24.299999999999997,-2.7
-"VTech DECT 6.0 Cordless Phones with Digital Answering System, 3 Handsets, Silver/Black",69.99,94.99,4.3,54,25.0,0.26
-"Henckels Venicia 20pc Stainless Steel Flatware Set, Serves 4",49.99,99.99,4.2,35,49.99999999999999,0.5
-"Keurig Tim Hortons Dark Roast K-Cup® Coffee Pods, 504-g, 48-pk",32.99,35.99,4.3,9457,3.0,0.08
-"SealWrap Plastic Wrap, 1000-ft",19.99,24.99,4.6,209,5.0,0.2
-"PADERNO Classic Saucepan, PFOA-Free, Non-Stick, Maroon",39.99,139.99,4.5,95,100.0,0.71
-"PADERNO Montgomery Stainless Steel Multi-Purpose Knife Set, 3-pc",79.99,119.99,4.8,32,40.0,0.33
-"MASTER Chef Salad Spinner, 5-L",19.99,39.99,4.2,72,20.000000000000004,0.5
-"ClosetMaid Wire Shelf Track Closet Organizer Kit, White, 4-ft x 6-ft",159.99,199.99,4.6,8,40.0,0.2
-La Crosse Colour Weather Station with Extra Receiver,59.99,119.99,3.2,9,59.99999999999999,0.5
-"Toilet Brush with Stand, White",3.0,4.99,4.0,58,1.9900000000000002,0.4
-"Black & Decker Kitchen Tools® Extra Wide Slots Toaster w/ 7 Settings, Stainless Steel, 4-Slices",59.99,99.99,3.6,362,39.99999999999999,0.4
-Mastercraft Compact Broom and Dustpan with Extended Ergonomic Handle,15.99,22.99,3.7,91,6.999999999999998,0.3
-"Type A Alpha Under-Sink Expandable & Adjustable Metal Storage Organizer Shelf with Basket, Chrome",39.99,49.99,4.6,30,10.0,0.2
-Woods™ Stainless Steel Insulated Double Wall Coffee Press,37.49,49.99,4.3,24,12.5,0.25
-"Henckels Silvano 20pc Stainless Steel Flatware Set, Serves 4",49.99,99.99,4.5,33,49.99999999999999,0.5
-Blink Mini Wi-Fi Indoor 1080p Camera,35.99,44.99,4.7,34,9.0,0.2
-"Dawn Ultra Platinum Liquid Dish Soap, Refreshing Rain Scent, 825-mL",5.66,6.29,4.9,16,0.6299999999999999,0.1
-"PADERNO Ceramic Roaster Set, Grey, 15 x 8.5-in, 2-pk",34.99,69.99,4.4,24,34.99999999999999,0.5
-"MASTER Chef Rectangular Enamel Double Roaster, 41 x 30cm",59.99,199.99,4.4,101,140.0,0.7
-"VTech RM5754HD Remote Access Fixed Digital Video Baby Monitor, 5-in",129.99,149.99,4.7,3,20.0,0.13
-"T-fal Element Wide Slots Toaster w/ 6 Settings, Stainless Steel, 2-Slices",49.99,84.99,3.6,131,34.99999999999999,0.41
-"MASTER Chef Multi-Purpose Scissor Set, 2-pc",5.0,9.99,4.2,93,4.99,0.5
-"T-fal Platinum Azure Multi-Layered Forged Non-Stick Frypan, 26-cm",24.99,99.99,4.8,171,75.0,0.75
-"Old Dutch Absolute Clean Liquid Laundry Detergent, Summer Fresh Scent, 50-Load, 2-L",3.0,5.29,4.4,33,2.29,0.43
-"MASTER Chef Bowl-Lift Stand Mixer w/ 7 Speeds, Black, 4.7qt",119.99,199.99,3.9,50,80.00000000000001,0.4
-"Lagostina Ticino Copper Frying Pan, Non-Stick, Dishwasher & Oven Safe, 26-cm",12.99,70.99,4.3,510,57.99999999999999,0.82
-"simplehuman Plastic D-Shaped Step Garbage Can, Black, 50-L",63.89,26.99,4.7,195,-36.900000000000006,-1.37
-"Simplicite All-Purpose Machine Washable Microfibre Cloths, Blue, 40-pk",16.19,219.99,4.7,28,203.8,0.93
-CANVAS Winsloe Bathroom Space Saver,149.99,14.99,3.8,6,-135.0,-9.01
-"Garrison Smoke Alarm With Hush Button, Batteries Included",9.0,89.99,4.1,115,80.99,0.9
-Proscan Portable Wireless Bluetooth CD Player Boombox Stereo w/ AM/FM Radio & AUX-IN,74.99,19.99,3.8,53,-55.0,-2.75
-"Dash Square Compact Mini, Non-Stick Waffle Maker, Blue",14.99,41.99,4.6,144,27.0,0.64
-FRANK Reusable Microfibre Spin Mop and Dual Bucket System with Extra Long Handle,34.39,15.99,3.0,228,-18.4,-1.15
-"Mr. Clean Multi-Surface Cleaner with Febreze Freshness, Lavender Vanilla, 3.8 L",14.39,29.99,4.6,5,15.599999999999998,0.52
-La Crosse Wireless Temperature Station Digital Thermometer,14.99,40.99,3.8,201,26.0,0.63
-"NOMA Dual-Head 180-Degree Outdoor Security Light, Weather-Resistant",29.99,13.99,3.8,25,-15.999999999999998,-1.14
-Swiffer Duster Heavy Duty 3 ft Extendable Handle Pet Starter Kit with 3 Refills,12.59,74.99,4.2,17,62.39999999999999,0.83
-"Conair Even Cut Ultra-Sharp Cordless Circular Trimmer/Clipper Haircutting Kit, 3-pc",49.99,26.99,2.6,110,-23.000000000000004,-0.85
-Libman Heavy-Duty Reusable Cotton Wet Mop,21.59,4.49,3.0,22,-17.1,-3.81
-"Allen's Original White Vinegar, 4-L",4.0,179.99,4.7,67,175.99,0.98
-"For Living Ladder Bathroom Space Saver, White",129.99,39.99,5.0,1,-90.0,-2.25
-"Mastercraft Multi-Surface Push Broom with Steel Handle, 24-in",31.99,44.99,3.8,97,13.000000000000004,0.29
-"ClosetMaid Superslide Wall Shelf Kit with Installation Hardware, 4-ft",35.99,31.99,3.9,28,-4.0000000000000036,-0.13
-"MotoMaster 5,000-lb Commercial Ratchet Tie Down Straps, with Ultra Padded Handles, 1.5-in x 14-ft, 2-pk",28.79,12.99,4.5,47,-15.799999999999999,-1.22
-"Glad Extra-Large Easy-Tie Flap Indoor/Outdoor Garbage Bags, 20-pk, Black, 135-L",10.39,49.99,4.4,47,39.6,0.79
-"Type A Perspective Steel 2-Tier Dish Drying/Draining Rack with Cutlery Holder, 18.2 x 12.3-in, Black",39.99,99.99,4.2,36,59.99999999999999,0.6
-"Kamenstein Tower Spice Rack, Pre-Filled, 16-Jar",49.99,89.99,3.1,30,39.99999999999999,0.44
-"PADERNO Professional Non-Stick Loaf Pan, 9 x 5-in",14.99,24.99,4.5,49,9.999999999999998,0.4
-"OLFA L-5 1116110 Heavy Duty Comfort-Grip Snap-off Utility Knife, 18-mm, Yellow/Black",11.04,12.99,4.9,412,1.950000000000001,0.15
-"Conair 1550W Extreme Steam Iron with Nano Titanium Soleplate and Auto Shutoff, Blue/Black",44.99,94.99,4.1,41,49.99999999999999,0.53
-"Palmolive Liquid Dish Soap, Assorted Scents, 828-mL",2.5,3.29,4.3,69,0.79,0.24
-"Mr. Clean Magic Eraser Extra Durable Scrubber & Cleaning Sponge, 4 ct",8.09,8.99,4.6,2255,0.9000000000000004,0.1
-"Type A Small Metal Dish Drying/Draining Rack For Kitchen, Chrome, 14.25 x 12.5 x 5-in",11.99,14.99,3.0,351,3.0,0.2
-NOMA iQ True HEPA Smart Wi-Fi Medium Air Purifier,199.99,309.99,4.4,27,110.0,0.35
-Dash 18-Cup Popcorn Maker with Measuring Cup & Clear Bowl,34.99,59.99,4.7,130,25.0,0.42
-"Tide Power PODs Hygienic Clean Heavy Duty, Hypoallergenic Pacs, 48 count",26.99,29.99,4.7,121,3.0,0.1
-"Bluehive 4,000 mAh Power Bank with Power Indicator, Battery Charge Indicator",9.99,29.99,4.1,67,20.0,0.67
-"For Living Portable Vinyl Upholstered & Padded Metal Folding Stool, Black",11.99,21.99,4.2,112,9.999999999999998,0.45
-"CANVAS Arwen 4-Light Clear Glass Shade Ceiling Pendant Light Fixture, Matte Black",109.99,139.99,4.1,30,30.000000000000014,0.21
-Proscan SRCD286-SLVR Portable CD & Cassette Player Boombox Stereo w/ AM/FM Radio,54.99,64.99,3.3,52,9.999999999999993,0.15
-"PAWS UP! Beef Bully Stick Dog Chew Treats, 227-g",13.49,14.99,4.2,89,1.5,0.1
-"Old Dutch Absolute Clean Liquid Laundry Detergent, Morning Breeze Scent, 50-Load, 2-L",3.0,5.29,4.2,92,2.29,0.43
-"Certified Camo Poly Tarp, Waterproof, 10-ft x 12-ft",27.89,30.99,4.1,15,3.099999999999998,0.1
-"Trudeau Stainless Steel/Glass Salt & Pepper Grinder Mill Set, Pre-Filled, 8-in, 2-pc",19.99,39.99,4.1,64,20.000000000000004,0.5
-"Sun Glo Citrus Air Odour Absorber, Citrus Scent, 227-g",3.0,5.99,3.8,97,2.99,0.5
-"Heritage Nespresso Vertuoline 40-Capsule Coffee Pod Holder Storage Drawer, Black",24.99,41.99,4.6,107,17.000000000000004,0.4
-"CLR Dual Purpose Septic System Treatment & Drain Cleaner, 828-mL",7.49,8.99,4.4,56,1.5,0.17
-"Keurig Van Houtte Vanilla Hazelnut Light Roast Coffee K-Cup Pods, 24-pk",17.99,19.99,4.7,100,2.0,0.1
-"Conair 1875W Pro Steam Iron with Nano Titanium Soleplate and Auto Shutoff, Copper/Black",64.99,139.99,3.8,63,75.00000000000001,0.54
-"Keurig Eight O'clock K-Cup® Coffee Pods, Discovery Box, 380-g, 40-pk",17.99,22.99,4.3,127,5.0,0.22
-"3M™ Filtrete™ Allergen Defense Micro Allergen Air Filter, MPR 1000, 16 x 20 x 1-in, 1-pk",17.99,22.49,4.7,587,4.5,0.2
-"Type A Large Metal Dish Drying/Draining Rack For Kitchen, Chrome, 18 x 14 x 5.5-in",13.99,17.99,4.1,169,3.9999999999999982,0.22
-"PADERNO Professional Non-Stick Medium Baking Sheet, 15 x 10-in",21.99,36.99,4.7,54,15.000000000000004,0.41
-Swiffer WetJet Hardwood-Surface Reusable Spray Mop Starter Kit,33.29,36.99,3.9,325,3.700000000000003,0.1
-"Certified Standard Duty Poly Tarp, Waterproof, 10-ft x 12-ft",14.79,18.49,4.1,73,3.6999999999999993,0.2
-Type A Stainless Steel Kitchen Countertop Utensil Holder/Crock,16.99,21.99,4.6,27,5.0,0.23
-"Armor All SmokeX Rapid Car Odour Eliminator Spray, Midnight Air Scent, 56-g",15.29,16.99,3.8,41,1.6999999999999993,0.1
-"type A Plastic Rectangular Compost Bin, White, 4-L",17.99,23.99,4.6,100,6.0,0.25
-"Hugo TranSport Travel Wheelchair Lightweight Aluminum Frame Folding, Black/Blue, 19.5-in",249.99,319.99,4.5,15,70.0,0.22
-"Hamilton Beach Cordless Cool Touch Electric Kettle w/ LED Indicator Switch, Black, 1.6L",54.99,99.99,4.4,35,44.99999999999999,0.45
-"PADERNO Glass Rectangular Baking Dish with Lid, 3.8-qt",23.99,39.99,4.3,26,16.000000000000004,0.4
-"Heritage The Rock Copper Essentials Deep Frying Pan, Non-Stick, Oven Safe, 28cm",34.99,119.99,4.4,176,85.0,0.71
-"Dash Drip Coffee Maker, Blue, 10 Cups",34.99,49.99,4.1,108,15.0,0.3
-"Stanley Tarp Straps, 15-in, 10-pk",24.79,30.99,3.7,3,6.199999999999999,0.2
-"OLFA L-1 5003 Heavy-Duty Ratchet-Lock Snap-off Utility Knife, 18-mm, Yellow",7.64,8.99,4.8,103,1.3500000000000005,0.15
-Philips S3332/54 Wet & Dry Electric Razor/Rotary Shaver with Trimmer and Charging Stand,89.99,109.99,4.1,286,20.0,0.18
-"PADERNO Classic 18/10 Stainless Steel Saucepan, PFOA-Free, Dishwasher & Oven Safe",39.99,139.99,4.6,76,100.0,0.71
-FRANK Deluxe Multi-Surface Broom,5.01,8.49,3.9,48,3.4800000000000004,0.41
-"NOMA PAR16 GU10 Base Non-Dimmable LED Flood Light Bulbs, 2700K 500 Lumens, Warm White, 50W, 6-pk",14.49,28.99,4.1,35,14.499999999999998,0.5
-"Bonterra™ Quadruple Roll Toilet Paper, 3-ply Tissue, 6-pk",6.0,8.99,4.4,29,2.99,0.33
-"CLR Bleach Free Mold & Mildew Stain Remover, 946-mL",7.49,8.99,3.4,81,1.5,0.17
-Proscan Extreme Portable Wireless Water-Resistant Bluetooth Speaker w/ FM Radio & AUX-IN,12.99,19.99,4.0,72,6.999999999999998,0.35
-"Tide PODS Liquid Laundry Detergent pacs, Spring Meadow Scent, 112 count",31.49,34.99,4.4,10,3.5000000000000036,0.1
-"Glad Tall Easy-Tie Flap Febreze Fresh Clean Scent Garbage Bags, 30-pk, White, 45-L",6.39,7.99,4.6,59,1.6000000000000005,0.2
-"NOMA PAR20 E26 Base Dimmable LED Flood Light Bulbs, 3000K, 500 Lumens, Warm White, 50W, 3-pk",9.59,31.99,4.0,55,22.4,0.7
-Stainless Steel Upright Paper Towel Holder with Weighted Base For Kitchen Countertop,24.99,31.49,4.6,120,6.5,0.21
-"PADERNO Professional Non-Stick Square Cake Pan, 8 x 8-in",17.99,29.99,4.6,37,12.0,0.4
-"Anchor Hocking Glass Storage Container Set, 2-pc x 7-Cup",9.99,21.99,4.3,87,11.999999999999998,0.55
-"PADERNO Professional Non-Stick Rectangular Cake Pan, 9 x 13-in",23.99,39.99,4.8,32,16.000000000000004,0.4
-"Tim Hortons Medium Roast Premium Instant Coffee, 100-g",7.0,8.79,4.6,37,1.7899999999999991,0.2
-"NerfDog Translucent Tire Flyers Dog Toys, Value Pack, 3-pk",22.49,24.99,3.8,36,2.5,0.1
-"Lagostina Pre-Seasoned Casserole Dish, Cast Iron, Black, 6-qt",69.99,249.99,3.7,77,180.0,0.72
-"NOMA PAR16 GU10 Base Non-Dimmable LED Flood Light Bulbs, Daylight (5000K), 50W, 6-pk",14.49,28.99,4.5,50,14.499999999999998,0.5
-"Sun Glo Resealable Odour Absorber, Fresh Scent, 227-g",3.0,5.99,4.3,176,2.99,0.5
-"Henckels Cottage 20pc Stainless Steel Flatware Set, Serves 4",49.99,99.99,4.4,39,49.99999999999999,0.5
-"Henckels Allegro 20pc Stainless Steel Flatware Set, Serves 4",49.99,99.99,4.5,22,49.99999999999999,0.5
-"Mr. Clean Magic Eraser Variety Pack Assortment Cleaning Pads, 6 count",11.69,12.99,4.0,339,1.3000000000000007,0.1
-"MotoMaster 3,300-lb Retractable Heavy-Duty Ratchet Tie Down Straps, 2-in x 10-ft, 2-pk",44.99,56.99,4.2,33,12.0,0.21
-"Certified Green Tarp with Drawstring, Waterproof, 6-ft x 6-ft",11.99,14.99,4.3,18,3.0,0.2
-Type A Radiant Stainless Steel 2-Loaf Bread Storage Box For Kitchen Countertop,44.99,56.99,4.1,22,12.0,0.21
-"Certified 120 Lumens Waterproof Rubberized Handheld Flashlights, Batteries Included, Black, 2-pk",21.99,27.99,4.5,40,6.0,0.21
-"Heritage 36-Cup Keurig K-Cup Coffee Pod Holder Storage Drawer, Black",24.99,31.49,4.6,93,6.5,0.21
-"Swiffer Dusters Starter Kit, Kit Includes 1 Handle and 5 Dusters",7.19,7.99,4.3,216,0.7999999999999998,0.1
-"Glad Large Easy-Tie Flap Garbage Bags, 30-pk, Clear, 90-L",10.39,12.99,4.8,36,2.5999999999999996,0.2
-"type A Steel and Plastic Circular Swing Lid Garbage Can, Silver, 8-L",29.99,39.99,4.3,55,10.000000000000004,0.25
-"Swiffer WetJet with The Power of Dawn Floor Cleaner, Fresh Scent",14.39,15.99,4.1,223,1.5999999999999996,0.1
-"Clorox Clean-up Disinfectant Bleach Cleaner Spray, 946-mL",4.49,4.99,4.7,9498,0.5,0.1
-"PADERNO Glass Rectangular Baking Dish with Lid, 2.8-qt",19.99,34.99,3.9,20,15.000000000000004,0.43
-"Smeg 50's Style Programmable 10-Cup Drip Coffee Maker, Cream",279.99,349.99,2.7,3,70.0,0.2
-"Philips Series 5000: HC5612/15 Cordless Trimmer/Clipper Haircutting Kit with Guide Combs, 4-pc",44.99,69.99,4.4,198,24.999999999999993,0.36
-"Lysol Disinfectant Mold & Mildew Bathroom Cleaner Spray with Bleach, 950-mL",4.0,4.99,4.5,58,0.9900000000000002,0.2
-"Glad Small Easy-Tie Flap Febreze Fresh Clean Scent Garbage Bags, 48-pk, White, 25-L",6.39,7.99,4.4,49,1.6000000000000005,0.2
-Type A Radiant Stainless Steel Upright Kitchen Countertop Paper Towel Holder with Weighted Base,16.99,21.49,4.8,26,4.5,0.21
-"Old Dutch Absolute Clean Hypoallergenic Laundry Detergent, Unscented, 50 Load, 2-L",3.0,5.29,4.4,47,2.29,0.43
-"Certified Standard Duty Poly Tarp, Waterproof, 20-ft x 28-ft",55.99,69.99,3.2,37,13.999999999999993,0.2
-Proscan Portable Wireless Bluetooth Party Speaker w/ AUX-IN & LED Light,24.99,49.99,3.8,99,25.000000000000004,0.5
-"Type A Anti-Microbial Plastic Drainboard Tray For Kitchen Dish Drying Rack, Clear",9.99,12.99,3.6,50,3.0,0.23
-"Libman Multi-Surface Heavy-Duty Push Broom, 24-in",43.99,54.99,4.5,33,11.0,0.2
-"Bar Keepers Friend Cookware Cleanser & Polish, 340-g",4.0,5.99,4.8,116,1.9900000000000002,0.33
-"Swiffer Sweeper XL Dry Sweeping Cloths, 16 count",12.59,13.99,4.7,31,1.4000000000000004,0.1
-"Goo Gone Oven and Grill Cleaner Spray, 828-mL",8.99,9.99,4.1,93,1.0,0.1
-"VTech DECT 6.0 Cordless Phone System with Caller ID, 1 Handset, Silver/Black",34.99,49.99,3.8,37,15.0,0.3
-"PAWS UP! Hide Free Chicken Stick Dog Chew Treats, 4-in to 5-in, 18-Pk, 310g",13.49,14.99,4.2,34,1.5,0.1
-"Tide Ultra OXI Power PODS with Odor Eliminators Pacs, 63 Count",31.49,34.99,4.9,7,3.5000000000000036,0.1
-InfinityPro by Conair SmoothWrap Ceramic Ionic Hair Dryer with Diffuser & Concentrator,59.99,69.99,3.4,5,9.999999999999993,0.14
-"OLFA H-1 5006 Pro Extra Heavy-Duty Rubber-Inset Grip Snap-off Utility Knife, 25-mm, Yellow/Black",15.29,17.99,4.8,80,2.6999999999999993,0.15
-"CANVAS Ellesmere 16pc Porcelain Dinnerware Set, Serves 4, White",59.99,129.99,3.3,35,70.0,0.54
-"Glad Cling Wrap Food Plastic Wrap, 295-ft",4.0,5.49,4.5,1769,1.4900000000000002,0.27
-"Heritage 24-Cup Keurig K-Cup Coffee Pod Holder Storage Drawer, Black",21.99,27.49,4.5,48,5.5,0.2
-Frank Dustpan & Cleaning Brush Set,3.0,4.99,4.5,156,1.9900000000000002,0.4
-"PADERNO Maple Hardwood Roast Cutting Board, Grip Handles, 12-in x 18-in",29.99,49.99,4.1,131,20.000000000000004,0.4
-"PADERNO Professional Uncoated Aluminum Round Cake Pan, 6-in",14.99,26.99,4.7,17,11.999999999999998,0.44
-"Glad Large ForceFlex Drawstring Garbage Bags, 24-pk, Black, 90-L",10.39,12.99,4.4,42,2.5999999999999996,0.2
-"MASTER Chef Convection Toaster Oven w/ 4 Functions, Stainless Steel, Black, 6-Slices",74.99,109.99,3.3,80,35.0,0.32
-"Old Dutch Fabric Softener, Gentle Fresh Scent, 7.4-L",10.0,12.99,4.3,33,2.99,0.23
-MotoMaster COB Dry Battery Worklight,14.99,49.99,4.0,52,35.0,0.7
-"PAWS UP! Beef Rawhide Sticks Dog Treats, 100-Pk, 900-g",10.0,12.99,4.2,50,2.99,0.23
-"Libman Push Broom with Rubber Squeegee, 24-in",34.39,42.99,4.6,19,8.600000000000001,0.2
-"Bonterra™ Facial Tissue, 3-ply, 150 Sheets, 3-pk",6.0,7.99,4.2,22,1.9900000000000002,0.25
-MASTER Chef Stainless Steel Box Grater,7.49,14.99,4.3,60,7.5,0.5
-"OLFA XH-1 1071858 Extra Heavy-Duty Comfort-Grip Snap-off Utility Knife, 25-mm, Yellow/Black",16.99,19.99,4.8,107,3.0,0.15
-"NOMA LED Solar Powered Outdoor Solar Motion Flood Light, Weather-Resistant, Black",104.99,139.99,3.7,27,35.000000000000014,0.25
-"Type A Small Metal Dish Drying/Draining Rack For Kitchen, White, 14.25 x 12.5 x 5-in",9.99,12.99,4.1,62,3.0,0.23
-"Alcan Aluminum Foil, 12-in x 50-ft",4.0,349.99,4.7,68,345.99,0.99
-MASTER Chef Pyramid Range Hood,299.99,16.99,4.1,8,-283.0,-16.66
-"Handi-Foil Aluminum Half Size Steam Table Pans, 11-in x 9-in, 10-pk",8.99,12.99,4.7,20,4.0,0.31
-"Type A Anti-Microbial Plastic Drainboard Tray For Kitchen Dish Drying Rack, White",9.99,349.99,4.0,32,340.0,0.97
-"Titan Aluminum Foil, 12-in x 25-ft, Kitchen Foil for Cooking/Baking & Grilling",1.5,18.99,3.7,36,17.49,0.92
-"Lagostina 18/10 Stainless Steel Roaster w/ Removable Rack, 43 x 33cm",99.99,37.99,4.3,145,-61.99999999999999,-1.63
-"Keurig Folgers Caramel Drizzle K-Cup® Coffee Pods, 270-g, 30-pk",17.99,21.99,4.6,68,4.0,0.18
-"CANVAS Driftwood Floating Wall Shelf, 24-in",29.99,59.99,4.5,11,30.000000000000004,0.5
-Type A Stay Stainless Steel Expandable Over-The-Sink Dish Drying/Draining Rack,16.99,19.99,3.8,40,3.0,0.15
-"Bluehive 3-in-1 Wall Charger, Power Bank & Wireless Charger",29.99,59.99,3.4,5,30.000000000000004,0.5
-"Keurig Van Houtte Colombian Medium Roast K-Cup® Coffee Pods, 228-g, 24-pk",17.99,189.99,4.8,140,172.0,0.91
-"MASTER Chef Silicone Non-Stick Bakeware Set, Red, 5-pc",34.99,12.49,4.1,105,-22.5,-1.8
-"OLFA EXL-CP3 1107373 Auto-Lock Heavy Duty Snap-off Utility Knives, 18-mm, Yellow, 3-pk",21.24,24.99,4.8,16,3.75,0.15
-"OLFA L-2 5004 Heavy-Duty Rubber-Inset Snap-off Utility Knife, 18-mm, Yellow/Black",11.89,13.99,4.8,66,2.0999999999999996,0.15
-KitchenAid Stainless Steel Splatter Screen with Activated Carbon Filter,19.99,39.99,4.6,105,20.000000000000004,0.5
-Proscan Portable Wireless Water-Resistant Floating Bluetooth Speaker w/ FM Radio & AUX-IN,21.99,31.99,3.5,37,10.0,0.31
-Proscan SRCD261B-BLK Portable CD Player Boombox Stereo w/ AM/FM Radio & AUX-IN,34.99,44.99,3.0,103,10.0,0.22
-"Easy Off Heavy-Duty Oven Cleaner Spray, Lemon Scent, 400-mL",6.0,7.79,4.3,86,1.79,0.23
-"Dawn Platinum Powerwash Dish Spray, Dish Soap, Fresh Scent, 473 mL",5.0,6.29,4.7,27,1.29,0.21
-"Type A Forte Compact Aluminum Dish Drying Rack with Cutlery Holder & Drainboard, 18.4 x 16-in, White/Grey",24.99,31.99,3.9,27,7.0,0.22
-"Kamenstein Glass Salt & Pepper Grinder Mill Set, Pre-Filled, 5.2-in, 2-pc",9.99,19.99,3.8,44,9.999999999999998,0.5
-"Gain Fabric Softener, Original, 4.85 L, 190 Loads, HE Compatible",16.19,17.99,4.9,16,1.7999999999999972,0.1
-"Clorox Disinfecting Bathroom Bleach Foamer Spray, 887-mL",4.49,4.99,4.3,603,0.5,0.1
-"Philips Multigroom Series 5000 All-In-One Rechargeable Cordless Hair Trimmer, 19-pc",54.99,69.99,4.3,496,14.999999999999993,0.21
-"OLFA BN-L/LBB10 1092961 Heavy-Duty Snap-off Utility Knife with Bonus Blades, 18-mm, Yellow/Black",16.99,19.99,4.6,44,3.0,0.15
-"Weiser Aura Bluetooth Electronic Smart Keypad Deadbolt Door Lock, Satin Nickel",178.49,209.99,3.7,7,31.5,0.15
-"Swiffer Sweeper Pet 2-in-1, Dry and Wet Multi-Surface Sweeping and Mopping SK",16.19,17.99,4.4,34,1.7999999999999972,0.1
-"Mr. Clean Magic Eraser Extra Durable, Cleaning Pads with Durafoam, 2 count",4.31,4.79,4.6,2644,0.4800000000000004,0.1
-Swiffer Duster Heavy Duty Starter Kit with 2 Refills,7.01,7.79,4.7,6489,0.7800000000000002,0.1
-"PADERNO Signature Cordierite Ceramic Square Pizza Stone, 14-in",47.99,79.99,3.3,39,31.999999999999993,0.4
-"CLR Industrial Strength Grease Magnet Cleaner & Degreaser, 1.24-L",7.49,10.99,3.8,39,3.5,0.32
-"Heritage 28-Pod Rotating Keurig K-Cup/Coffee Pod Holder Storage Carousel, Chrome",24.99,31.49,4.6,129,6.5,0.21
-"Type A Comfort Absorbent Folding Microfibre Dish Drying Mat & Draining Rack, Grey, 20 x 16-in",15.99,19.99,4.5,40,3.9999999999999982,0.2
-"Febreze Odor-Fighting Fabric Refresher, Downy April Fresh, 800 mL",5.84,6.49,4.3,167,0.6500000000000004,0.1
-"Bluehive Braided MFI USB to Lightning Charger & Sync Cable, for Select Apple Devices, Black, 10-ft",9.99,19.99,3.6,39,9.999999999999998,0.5
-"PADERNO Professional Uncoated Aluminum Round Cake Pan, 9-in",19.99,33.99,4.7,18,14.000000000000004,0.41
-"KitchenAid® No Stress, No Mess Aluminum Citrus Press",19.99,39.99,4.6,61,20.000000000000004,0.5
-"Titan Wax Paper for Baking, 25-ft, Microwave-Safe",1.5,89.99,4.3,22,88.49,0.98
-"CANVAS Kingsley Ceiling Pendant Light Fixture, Oil Rubbed Bronze",64.99,4.99,3.8,16,-59.99999999999999,-12.02
-"Bar Keepers Friend Toilet Bowl Cleaner, 709-mL",4.0,8.99,4.4,25,4.99,0.56
-Rectangular 24 LED Worklight,6.29,24.99,4.4,82,18.7,0.75
-"Handi-Foil Heavy Duty Aluminum Foil, 18-in x 160-ft",17.99,69.99,3.4,23,52.0,0.74
-"Titan Plastic Food Wrap, 82-ft",1.5,24.99,3.1,20,23.49,0.94
-Bluehive Wireless Charger Dock,29.99,12.99,2.4,58,-17.0,-1.31
-"Duracell Optimum AA Batteries, Alkaline, 4X Power Boost, All Purpose, 18-pk",22.49,18.99,4.6,1070,-3.5,-0.18
-"Starbucks French Roast Ground Coffee, 340-g",10.0,17.99,4.7,15,7.989999999999998,0.44
-"Keurig Folgers Vanilla Biscotti K-Cup® Coffee Pods, 270-g, 30-pk",17.99,19.99,4.8,149,2.0,0.1
-"Certified 120 Lumens LED Aluminum Handheld Flashlights, Batteries Included, Assorted Colours, 3-pk",14.99,49.99,4.5,51,35.0,0.7
-"Type A Stay 5-Slot Kitchen Cabinet/Cupboard Storage Rack For Bakeware/Trays/Pans/Lids, Chrome",15.99,2.49,4.6,51,-13.5,-5.42
-"PADERNO Wood Composite Cutting Board, Dishwasher Safe, 15.5-in x 11.5-in",29.99,29.99,4.3,29,0.0,0.0
-"Bounce Dryer Sheets, 15 Sheets, Outdoor Fresh Scent Fabric Softener Sheets",1.5,33.99,4.7,2938,32.49,0.96
-"Old Dutch Liquid Dish Soap, Assorted Scents, 740-mL",1.5,19.99,3.0,44,18.49,0.92
-"Trudeau Stainless Steel Magnetic Spice Jars with Wall Plate, 6-pc",14.99,24.99,4.2,70,9.999999999999998,0.4
-"PADERNO Professional Non-Stick Round Pizza Crisper Pan, 14-in",19.99,29.99,4.6,21,10.0,0.33
-"Keurig24-pk Van Houtte Decaf Original House Blend Medium Roast K-Cup® Coffee Pods, 226-g",17.99,64.99,4.5,34,47.0,0.72
-"PADERNO Glass Loaf Pan with Lid, 1.6-qt",14.99,29.99,4.7,23,14.999999999999998,0.5
-"MotoMaster 1,500-lb Ratchet Tie Down Straps, with Padded Handle, 1-in x 10-ft, 4-pk",24.99,29.99,4.0,78,5.0,0.17
-NerfDog Tennis Ball Blaster Dog Toy,26.99,29.99,3.6,76,3.0,0.1
-"Downy Unstopables In-Wash Scent Booster Beads, LUSH, 752 g",19.79,21.99,4.7,161,2.1999999999999993,0.1
-"Masters Best Friend Supreme Treats Collagen Chew Dog Treats, 6-in, 6-pk",13.49,14.99,3.5,11,1.5,0.1
-"PureSnacks Freeze-Dried Lamb Dog Treats, 156-g",16.19,17.99,4.0,4,1.7999999999999972,0.1
-"Keurig Folgers Black Silk Dark Roast K-Cup® Coffee Pods, 240-g, 30-pk",17.99,18.99,4.7,25,1.0,0.05
-"Febreze Antibacterial Fabric Refresher, 500 mL",4.94,5.49,4.7,122,0.5499999999999998,0.1
-"Peerless® Weston Metal Bathroom Towel Ring, White",14.99,24.99,4.6,7,9.999999999999998,0.4
-"CANVAS Driftwood Floating Shelf, 36-in",39.99,49.99,5.0,3,10.0,0.2
-Stainless Steel Under Cabinet/Wall Mount Paper Towel Holder with Mounting Hardware,19.99,24.99,4.6,114,5.0,0.2
-"Conair HCT94C 3-in-1 Combo Hair Cutting Kit with Trimmer/Clippers, Guide Combs & Scissors, 22-pc",29.99,49.99,2.6,22,20.000000000000004,0.4
-"OLFA MXP-L 1135529 Heavy-Duty Aluminum Snap-off Utility Knife, 18-mm, Silver/Black",21.24,24.99,4.7,15,3.75,0.15
-"Swiffer Dusters Heavy Duty Pet Multi-Surface Refills, with Febreze Odor Defense, 6 Count",11.24,12.49,4.8,60,1.25,0.1
-"Downy Light In-Wash Laundry Scent Booster Beads, Assorted Scents, 752-g",18.89,20.99,4.9,367,2.099999999999998,0.1
-"Starbucks Pike Place Medium Roast Ground Coffee, 340-g",10.0,12.99,4.7,11,2.99,0.23
-"Hartz Quackers Plush Duck Dog Toy, Assorted Styles",12.59,13.99,3.7,87,1.4000000000000004,0.1
-"Whiskas Seafood Selections Dry Cat Food, 9.1-kg",33.29,36.99,4.4,36,3.700000000000003,0.1
-"Caledon Farms Beef Liver Bites Dog Treats, 150-g",8.99,9.99,4.8,118,1.0,0.1
-"Masters Best Friend Raw Hide-Free Sticks with Cheese Dog Chews, 5-in, 18-pk",11.69,12.99,3.9,11,1.3000000000000007,0.1
-"Keurig Van Houtte Colombian Dark Roast K-Cup® Coffee Pods, 211-g, 24-pk",17.99,19.99,4.6,106,2.0,0.1
-"Downy Infusions In-Wash Laundry Scent Booster Beads, Assorted Scents, 752-g",18.89,20.99,4.8,728,2.099999999999998,0.1
-"Chuckit! Air Fetch Ball, Medium, 2-pk",11.69,12.99,4.0,44,1.3000000000000007,0.1
-"Vida by PADERNO Coffee Maker, Stainless Steel, 12 Cups",79.99,134.99,2.4,45,55.000000000000014,0.41
-2-in-1 COB LED Lantern & Spotlight,24.99,49.99,4.6,19,25.000000000000004,0.5
-"Libman Machine Washable Microfibre Sponge Cloths, Assorted Colours, 3-pk",4.29,7.49,4.7,36,3.2,0.43
-"NOMA A19 E26 Base Household Non-Dimmable LED Light Bulbs, 2700K, 1550 Lumens, Soft White, 100W, 4-pk",21.59,35.99,4.3,52,14.400000000000002,0.4
-"NerfDog Durable Rubber Retriever Barbell Chew Dog Toy, Large, Green",13.49,14.99,4.0,22,1.5,0.1
-"NerfDog Infinity Rubber Tug Dog Toy, Red",10.79,11.99,2.6,34,1.200000000000001,0.1
-"Whiskas TemPtations TemPting Tuna Flavour Mega Pack Classic Cat Treats, 180-g",2.96,3.29,4.8,57,0.33000000000000007,0.1
-"PAWS UP! Hide Free Chicken Dog Chew Treats, 9-in to 10-in, 2-Pk, 365-g",13.49,14.99,3.9,26,1.5,0.1
-"Gain Fireworks In-Wash Scent Booster Beads, Moonlight Breeze, 26.5 oz",19.79,21.99,4.6,8,2.1999999999999993,0.1
-"Keurig Folgers Morning Café Light Roast K-Cup® Coffee Pods, 210-g, 30-pk",17.99,18.99,4.2,46,1.0,0.05
-"NOMA PAR20 E26 Base Dimmable LED Flood Light Bulbs, 5000K, 520 Lumens, Daylight, 50W, 3-pk",9.59,31.99,4.1,47,22.4,0.7
-"NOMA LED Battery Operated Indoor/Outdoor Security Light, Weather-Resistant, White",19.99,25.99,4.0,83,6.0,0.23
-"Cerama Bryte Liquid Cooktop Cleaner Spray, 473-mL",5.21,5.79,4.0,41,0.5800000000000001,0.1
-"Glad Tall ForceFlex Drawstring Recycling Bags, 26-pk, Blue, 45-L",6.79,8.49,4.3,23,1.7000000000000002,0.2
-"Tim Hortons Decaf Medium Roast Premium Instant Coffee, 100-g",7.0,8.79,4.7,19,1.7899999999999991,0.2
-"Febreze PLUG Air Freshener, Gain Original, (2) 26 mL Oil Refills",9.89,11.99,4.6,894,2.0999999999999996,0.18
-"E-Zee Wrap Parchment Paper, 190-ft",14.99,20.99,4.8,49,5.999999999999998,0.29
-"Peerless® Weston Bathroom Toilet Paper Holder, Chrome",14.99,24.99,4.1,8,9.999999999999998,0.4
-"SpongeTowels Utra Pro Giant Roll Paper Towel, 12-pk",17.99,7.99,4.7,63,-9.999999999999998,-1.25
-"Dove Men + Care Active + Fresh Body Wash After Sport Care, 400-mL",5.99,24.99,4.5,415,19.0,0.76
-"Peerless® Weston Wall Mount Bathroom Towel Ring, Chrome",14.99,27.99,4.5,4,12.999999999999998,0.46
-"Certified Metal Pocket Flashlights and Headlights/Headlamps, Batteries Included, 5-pk",19.99,22.99,3.8,26,3.0,0.13
-"Purina Dog Chow® ComPlete Chicken Adult Dry Dog Food, 8-kg",18.39,12.99,4.7,270,-5.4,-0.42
-"COOKINA Parchminum Reusable Presentation & Cooking Mat Non-Stick, 15-in x 23-in",8.99,3.29,4.7,34,-5.7,-1.73
-"Whiskas TemPtations Assorted Flavour Mega Pack Classic Cat Treats, 180 g",2.96,7.99,4.7,19556,5.03,0.63
-"Purina Friskies® Chef's Blend® Dry Cat Food, 1.5-kg",6.39,12.29,4.8,180,5.8999999999999995,0.48
-"FRANK Cellulose Scrub Sponge, 6-pk",3.0,5.99,4.1,32,2.99,0.5
-"Chuckit! Ultra Rubber Ball Dog Toy, Medium, Orange",10.79,11.99,4.7,471,1.200000000000001,0.1
-"Purina Friskies® SurfIn' & TurfIn' Dry Cat Food, 1.43-kg",6.39,7.99,4.6,44,1.6000000000000005,0.2
-"Caledon Farms Sweet Potato & Liver Chews Dog Treats, 256-g",8.99,9.99,4.7,39,1.0,0.1
-"Chuckit! Classic Ball Launcher Dog Toy, 26-m, Assorted Colours",16.19,17.99,4.7,52,1.7999999999999972,0.1
-PAWS UP! Bully Stick Dog Treat,8.09,8.99,4.0,57,0.9000000000000004,0.1
-Libman High Power Telescopic Window Washer,23.99,29.99,3.6,23,6.0,0.2
-"KitchenAid Metal Expandable Colander, Red, 3.78-L",29.99,59.99,4.4,43,30.000000000000004,0.5
-"Air Wick Scented Oil Starter Kit, Crisp Linen",6.0,8.49,4.5,10,2.49,0.29
-"Downy Unstopables In-Wash Scent Booster Beads, Fresh, 55 Loads 752 g",19.79,21.99,4.7,428,2.1999999999999993,0.1
-"DEWALT 3,300-lb Ratchet Tie Down Strap, Weatherproof, 1.5-in x 16-ft, 2-pk",39.99,50.99,5.0,7,11.0,0.22
-"Chuckit! Ball Launcher Dog Toy, 18-m, 2-pc",10.79,11.99,4.6,286,1.200000000000001,0.1
-"Bluehive Braided USB to Type C Charger & Sync Cable, for Apple and Android Devices, Black, 10-ft",7.49,14.99,3.5,25,7.5,0.5
-"NerfDog Blaster LED Glow Sonic Ball Dog Toy, Clear",11.69,12.99,3.8,19,1.3000000000000007,0.1
-"Chuckit! Fetch & Fold Ball Launcher Set Dog Toys, 2-pc",17.09,18.99,4.8,38,1.8999999999999986,0.1
-"Chuckit! Ultra Rubber Ball Dog Toy, Large, Orange",10.79,11.99,4.6,116,1.200000000000001,0.1
-"Caledon Farms Beef Tendersticks Dog Treats, 110-g",8.99,9.99,4.9,78,1.0,0.1
-"Caledon Farms Beef Jerky Dog Treats Value Pack, 680-g",17.99,19.99,4.9,34,2.0,0.1
-"NerfDog Max Court Squeak Infinity Tug Dog Toy, Water-Resistant, Green",17.09,18.99,2.9,14,1.8999999999999986,0.1
-"Chuckit! FetchTug 2-in-1 Ring Dog Toy, Orange",13.49,14.99,2.5,22,1.5,0.1
-"Whiskas Dry Cat Food with Tuna, 9.1-kg",33.29,36.99,4.7,9,3.700000000000003,0.1
-"Stanley 1,500-lb Tie Downs, Weatherproof, 10-ft, 8-pk",57.59,71.99,4.3,4,14.399999999999991,0.2
-"NerfDog Deluxe AirStrike Thrower Squeak Ball Gift Set Dog Toys, 5-pk",20.69,22.99,3.3,20,2.299999999999997,0.1
-"Chuckit! Zipflight Amphibious Flying Ring Dog Toy, Medium, Orange",20.69,22.99,4.2,120,2.299999999999997,0.1
-"Keurig Folgers Intensely Dark Roast K-Cup® Coffee Pods, 315-g, 30-pk",17.99,18.99,4.2,16,1.0,0.05
-"Keurig Van Houtte Original House Blend Medium Roast K-Cup® Coffee Pods, 228-g, 24-pk",17.99,19.99,4.5,124,2.0,0.1
-"Lagostina Tuscan Collection Round Casserole Dish, Enamelled Cast Iron, Orange, 7-qt",119.99,399.99,4.3,87,280.0,0.7
-"NerfDog Squeak Rubber Football Dog Toy, Medium/Large, Green",12.59,13.99,4.5,36,1.4000000000000004,0.1
-"Keurig Folgers Lively Colombian Medium Roast K-Cup® Coffee Pods, 270-g, 30-pk",17.99,18.99,4.7,79,1.0,0.05
-"Masters Best Friend Beef Lung Dog Treat, 114-g",7.64,8.49,4.8,5,0.8500000000000005,0.1
-"Kamenstein 2-in-1 Dual Salt & Pepper Grinder Set, Pre-Filled with Refill, 8-in, 3-pc",24.99,49.99,3.0,16,25.000000000000004,0.5
-"Masters Best Friend Beef Bully Chews Dog Bites, 3 to 6-in, 227-g",13.49,14.99,4.1,18,1.5,0.1
-"Peerless® Weston Bathroom Toilet Paper Holder, White",14.99,24.99,4.2,5,9.999999999999998,0.4
-"LavAzza Perfetto Dark Roast Ground Coffee, 340-g",10.0,12.29,4.7,11,2.289999999999999,0.19
-"Peerless® PlumbShop® Double Handle Round 1-Spray Bathtub & Shower Trim Kit, Chrome",56.99,99.99,4.1,12,42.99999999999999,0.43
-"Lagostina Tuscan Collection Oval Casserole Dish, Enamelled Cast Iron, Orange, 5qt",99.99,349.99,4.6,94,250.0,0.71
-"For Living Orleans Bathroom Space Saver, Grey",89.99,119.99,2.5,4,30.0,0.25
-La Crosse Wi-Fi Weather Station Thermometer with Leak Detection,89.99,179.99,3.7,97,90.00000000000001,0.5
-"Woods™ Propane 2 Mantle Night Lantern w/ Hanging Hook, 400 Lumen",45.49,60.99,3.4,25,15.5,0.25
-"For Living Beacon Hill 2-Door Over-The-Toilet Spacesaver Bathroom Storage Cabinet , White",214.99,319.99,3.9,41,105.0,0.33
-"type A White Stainless Steel Rectangular Step Garbage Can, 8-L",35.99,47.99,3.6,43,12.0,0.25
-"Peerless® Double Handle Wall Mount Bathtub & Shower Trim Kit, Chrome",59.99,109.99,4.2,13,49.99999999999999,0.45
-"For Living Lakeville 2-Door Over-The-Toilet Spacesaver Bathroom Storage Cabinet, Espresso",174.99,259.99,3.0,32,85.0,0.33
-MASTER Chef 190 CFM White Under Cabinet Range Hood,129.99,159.99,4.1,13,30.0,0.19
-"Peerless® Weston Single Bathroom Towel Bar/Rack, Chrome, 18-in",16.79,27.99,4.1,22,11.2,0.4
-"Type A Forte Aluminum Dish Drying Rack with Cutlery Holder & Drainboard, Grey, 6 x 9-in",67.99,84.99,3.2,31,17.0,0.2
-"Black & Decker Kitchen Tools Square Food Processor Stainless Steel, 10 Cups",89.99,149.99,2.6,94,60.000000000000014,0.4
-Bluehive 3-in-1 Wireless Charging Phone Mount,34.99,69.99,3.7,48,34.99999999999999,0.5
-"For Living Fog Free Aluminum Medicine Cabinet, 20-in x 26-in",209.99,259.99,4.0,2,50.0,0.19
-"PureSnacks Freeze Drie Salmon Dog Treats, 100-g",16.19,17.99,4.5,19,1.7999999999999972,0.1
-"PureSnacks Freeze Dried Chicken Dog Treats, 140-g",16.19,17.99,4.8,22,1.7999999999999972,0.1
-"Chuckit! Tennis Ball Dog Toys, Medium, 4-pk, Orange",8.09,8.99,3.0,47,0.9000000000000004,0.1
-"Chuckit! Fetch Medley Ball Dog Toys, Medium, 3-pk",20.69,22.99,4.7,65,2.299999999999997,0.1
-MASTER Chef Modern T-Style Range Hood,349.99,399.99,4.1,7,50.0,0.13
-"PureSnacks Freeze Dried Beef Liver Dog Treats, 198-g",16.19,17.99,4.7,37,1.7999999999999972,0.1
-"NOMA Indoor Single LED Strip Light, 1150 Lumnes, 2-ft, Cool White, 15W",43.19,71.99,4.3,9,28.799999999999997,0.4
-"LavAzza Classico Medium Roast Ground Coffee, 340-g",10.0,12.29,4.5,6,2.289999999999999,0.19
-"Bluehive Bluepods+ Wireless Charging Earbuds with 27.5 Hour Battery Life & USB-C Charge Port, White",23.99,79.99,4.3,22,56.0,0.7
-"Bodum Adjustable Blade Coffee Grinder with 5 Grind Settings, Black, 12-Cup",44.99,64.99,0.0,0,19.999999999999993,0.31
-"CANVAS Euclid 1-Light Rattan Pendant Light with Woven Shade, White",63.99,79.99,0.0,0,15.999999999999993,0.2
-"Dawn EZ-Squeeze Ultra Oxi Dish Soap, Lemon Scent, 535 ml",4.49,4.99,0.0,0,0.5,0.1
-"Lagostina Ceramic Bakeware Set, Blue, 4-pc",29.99,3.99,0.0,0,-26.0,-6.52
-Petco Plush Llama Corn Dog Toy,3.5,319.99,0.0,0,316.49,0.99
-NOMA iQ 35 Pint 2-Speed ENERGY STAR® Most Efficient Dehumidifier,269.99,59.99,4.5,4,-210.0,-3.5
-Trudeau 12 Bottle Revolving Square Spice Rack Carousel,29.99,74.99,0.0,0,45.0,0.6
-"Bodum Electric Cordless Gooseneck Water Kettle with Auto Shut Off, Black, 0.8-L",49.99,449.99,0.0,0,400.0,0.89
-"MAXIMUM 4-in-1 Hybrid Aluminum Hand Truck & Cart w/ Pneumatic Tires, 800-lb/1000-lb",249.99,22.49,5.0,2,-227.5,-10.12
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 20 x 25 x 1-in, 1-pk",17.99,749.99,4.7,467,732.0,0.98
-Shark AI VACMOP Self-Empty with CleanEdge,499.99,64.99,4.4,21,-435.0,-6.69
-"For Living 1-Light Ceiling Pendant Light, Matte White",51.99,34.99,0.0,0,-17.0,-0.49
-"Accuweight Digital Bathroom Scale, Wood/Tempered Glass, 400-lb",19.99,22.49,0.0,0,2.5,0.11
-"For Living 1-Light Ceiling Pendant Light, Matte Black",63.99,79.99,0.0,0,15.999999999999993,0.2
-Hoover ONEPWR® Evolve Pet Elite Cordless Vacuum Kit,299.99,449.99,4.6,92,150.0,0.33
-Hamilton Beach Power Elite Blender with Wave~Action,44.99,64.99,0.0,0,19.999999999999993,0.31
-"White Recycled Bath Mat, 20-in x 34-in",19.99,29.99,0.0,0,10.0,0.33
-"For Living 5-Reversible Blade 3-Speed Ceiling Fan with Lights, 44-in, Black",114.99,149.99,3.0,1,35.000000000000014,0.23
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 20 x 20 x 1-in, 1-pk",17.99,22.49,4.7,467,4.5,0.2
-Chuckit Rugged Flyer,14.39,15.99,3.4,16,1.5999999999999996,0.1
-"CANVAS Sifton 1-Light Pendant Light with Clear Glass Shade, Matte Black",54.99,69.99,0.0,0,14.999999999999993,0.21
-"Cyclone 80 CFM 1.0 Sone Compact Bath Fan with DC Motor, White",59.99,69.99,0.0,0,9.999999999999993,0.14
-"Petco Plush Hedgeicorn Dog Toy, Small",3.5,3.99,0.0,0,0.4900000000000002,0.12
-"Reynolds Kitchens® Unbleached Non-Stick Air Fryer Liners, 50-pc",8.99,9.99,4.0,1,1.0,0.1
-"Bluehive 30 Watt USB-C Fast Charge PD Wall Charger for Smartphones & MacBook Air, White",19.99,29.99,4.9,8,10.0,0.33
-Petco Plush Racoon with Rope Dog Toy,3.5,3.99,0.0,0,0.4900000000000002,0.12
-"Palmolive Ultra Strength Liquid Dish Soap Detergent, Fresh Scent, 961-mL",4.49,4.99,4.1,885,0.5,0.1
-"Smeg Retro Style Electric Toaster with Multi-Function Control, Light Blue, 2-Slices",223.99,279.99,0.0,0,56.0,0.2
-Jabra Elite 2 True Wireless Earbuds,67.49,89.99,4.8,40,22.5,0.25
-"Dawn EZ-Squeeze Ultra Dish Soap, Apple Blossom Scent, 650ml",4.49,4.99,0.0,0,0.5,0.1
-"Scotties Supreme Hypoallergenic Facial Tissue Box, 3-Ply",2.0,19.99,5.0,5,17.99,0.9
-"Bluehive Power Delivery 20W Wall Charger, White",14.99,249.99,0.0,0,235.0,0.94
-"Smeg Retro Style Electric Tea Kettle with Cordless Base, Light Blue, 1.7-L",199.99,22.49,0.0,0,-177.5,-7.89
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 16 x 25 x 1-in, 1-pk",17.99,499.99,4.7,467,482.0,0.96
-Shark AI Ultra VACMOP Max,349.99,79.99,4.4,230,-270.0,-3.38
-Hamilton Beach Egg Bites Plus Egg Cooker,49.99,349.99,4.8,4,300.0,0.86
-"MotoMaster Handheld Work Light, PWR POD Compatible",29.99,59.99,4.0,2,30.000000000000004,0.5
-"Bluehive Bluepods+ Wireless Charging Earbuds with 27.5 Hour Battery Life & USB-C Charge Port, White",23.99,79.99,4.3,22,56.0,0.7
-"Bodum Adjustable Blade Coffee Grinder with 5 Grind Settings, Black, 12-Cup",44.99,64.99,0.0,0,19.999999999999993,0.31
-"CANVAS Euclid 1-Light Rattan Pendant Light with Woven Shade, White",63.99,79.99,0.0,0,15.999999999999993,0.2
-"Dawn EZ-Squeeze Ultra Oxi Dish Soap, Lemon Scent, 535 ml",4.49,4.99,0.0,0,0.5,0.1
-"Lagostina Ceramic Bakeware Set, Blue, 4-pc",29.99,3.99,0.0,0,-26.0,-6.52
-Petco Plush Llama Corn Dog Toy,3.5,319.99,0.0,0,316.49,0.99
-NOMA iQ 35 Pint 2-Speed ENERGY STAR® Most Efficient Dehumidifier,269.99,59.99,4.5,4,-210.0,-3.5
-Trudeau 12 Bottle Revolving Square Spice Rack Carousel,29.99,74.99,0.0,0,45.0,0.6
-"Bodum Electric Cordless Gooseneck Water Kettle with Auto Shut Off, Black, 0.8-L",49.99,449.99,0.0,0,400.0,0.89
-"MAXIMUM 4-in-1 Hybrid Aluminum Hand Truck & Cart w/ Pneumatic Tires, 800-lb/1000-lb",249.99,22.49,5.0,2,-227.5,-10.12
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 20 x 25 x 1-in, 1-pk",17.99,749.99,4.7,467,732.0,0.98
-Shark AI VACMOP Self-Empty with CleanEdge,499.99,64.99,4.4,21,-435.0,-6.69
-"For Living 1-Light Ceiling Pendant Light, Matte White",51.99,34.99,0.0,0,-17.0,-0.49
-"Accuweight Digital Bathroom Scale, Wood/Tempered Glass, 400-lb",19.99,22.49,0.0,0,2.5,0.11
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 16 x 24 x 1-in, 1-pk",17.99,79.99,4.7,467,62.0,0.78
-"For Living 1-Light Ceiling Pendant Light, Matte Black",63.99,449.99,0.0,0,386.0,0.86
-Hoover ONEPWR® Evolve Pet Elite Cordless Vacuum Kit,299.99,64.99,4.6,92,-235.0,-3.62
-Hamilton Beach Power Elite Blender with Wave~Action,44.99,29.99,0.0,0,-15.000000000000004,-0.5
-"White Recycled Bath Mat, 20-in x 34-in",19.99,149.99,0.0,0,130.0,0.87
-"For Living 5-Reversible Blade 3-Speed Ceiling Fan with Lights, 44-in, Black",114.99,22.49,3.0,1,-92.5,-4.11
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 20 x 20 x 1-in, 1-pk",17.99,15.99,4.7,467,-1.9999999999999982,-0.13
-Chuckit Rugged Flyer,14.39,69.99,3.4,16,55.599999999999994,0.79
-"CANVAS Euclid 1-Light Pendant Light with Woven Shade, White",111.99,139.99,0.0,0,28.000000000000014,0.2
-"Dawn Ultra Oxi Dish Soap, Dishwashing Liquid, Lemon Scent, 2.21 L",11.69,12.99,0.0,0,1.3000000000000007,0.1
-"Cascade Platinum Dishwasher Detergent Pods, Fresh, 39 Count",16.19,17.99,0.0,0,1.7999999999999972,0.1
-"Palmolive Essentials Clean Liquid Dish Soap, Assorted Scents, 4.27-L",10.34,11.49,2.1,7,1.1500000000000004,0.1
-"MotoMaster Handheld Work Light, PWR POD Compatible",29.99,59.99,4.0,2,30.000000000000004,0.5
-"Cascade Platinum Plus ActionPacs Dishwasher Detergent Pods, Fresh, 21 Count",11.69,12.99,4.8,605,1.3000000000000007,0.1
-"Purina Fancy Feast Puree Naturals Tuna Adult Cat Food Treats, Made with Real Meat, 4 x 10-g",2.19,2.79,4.4,4274,0.6000000000000001,0.22
-"Tide Power Pods Laundry Detergent Pacs with Febrez Botanical Rain Scent, 48 count",24.29,26.99,0.0,0,2.6999999999999993,0.1
-"Skyworth Android 4K Ultra HD Google TV, 43-in",329.99,5.29,0.0,0,-324.7,-61.38
-"Old Dutch Fabric Softener, Gentle Fresh Scent, 1.6-L",3.0,399.99,0.0,0,396.99,0.99
-NOMA SurfaceElite™ High Power Bagless Corded Upright Vacuum Cleaner,199.99,7.99,0.0,0,-192.0,-24.03
-"Tim Hortons Classic Lungo, Nespresso Compatible Coffee Capsules, 52-g, 10-pk",7.0,9.99,0.0,0,2.99,0.3
-"For Living Tufted Bathroom Mat, Dark Grey, 17-in x 24-in",6.99,87.99,0.0,0,81.0,0.92
-"LUXPRO 2849 Lumen Slim IPX4 Rated Easy-Grip Rechargeable LED Work Light with 3 Light Modes, Black",69.99,109.99,0.0,0,40.0,0.36
-"CANVAS Young 1-Light Pendant Light with Clear Glass Shade, Matte Black",87.99,49.99,0.0,0,-37.99999999999999,-0.76
-"Bluehive Magnetic Wireless Power Bank, Black",19.99,26.99,3.3,3,7.0,0.26
-"Tide Power Pods Laundry Detergent Pacs with Febreze Sport Freshness, 48 Count",24.29,28.99,0.0,0,4.699999999999999,0.16
-"Duracell Coppertop Alkaline AAA Batteries, 24-pk",22.99,9.99,4.6,2965,-12.999999999999998,-1.3
-"For Living Tufted Bathroom Mat, Aqua, 17-in x 24-in",6.99,32.99,0.0,0,26.0,0.79
-"Peerless® Weston Single Bathroom Towel Bar/Rack, Chrome, 24-in",19.79,29.99,0.0,0,10.2,0.34
-"For Living Plug in Pendant Light, White",23.99,7.99,0.0,0,-15.999999999999998,-2.0
-"Tim Hortons Bold Espresso, Nespresso Compatible Coffee Capsules, 52-g, 10-pk",7.0,14.99,0.0,0,7.99,0.53
-Chuckit Indoor Tumble Bumper,13.49,31.99,1.0,1,18.5,0.58
-"Cascade Platinum Plus ActionPacs Dishwasher Detergent Pods, Fresh, 51 Count",20.69,22.99,4.8,605,2.299999999999997,0.1
-"CANVAS Euclid 1-Light Pendant Light with Woven Shade, White",111.99,139.99,0.0,0,28.000000000000014,0.2
-"Dawn Ultra Oxi Dish Soap, Dishwashing Liquid, Lemon Scent, 2.21 L",11.69,12.99,0.0,0,1.3000000000000007,0.1
-"Cascade Platinum Dishwasher Detergent Pods, Fresh, 39 Count",16.19,17.99,0.0,0,1.7999999999999972,0.1
-"Palmolive Essentials Clean Liquid Dish Soap, Assorted Scents, 4.27-L",10.34,11.49,2.1,7,1.1500000000000004,0.1
-"MotoMaster Handheld Work Light, PWR POD Compatible",29.99,59.99,4.0,2,30.000000000000004,0.5
-Chuckit Rope Fetch,21.59,23.99,3.0,4,2.3999999999999986,0.1
-Mastercraft 180-Lumen Handheld Waterproof Spotlight,14.99,45.99,5.0,1,31.0,0.67
-"Black & Decker Non-Stick Rice Cooker & Steamer, 28 Cups",59.99,89.99,0.0,0,29.999999999999993,0.33
-"Spray Nine Glass/Stainless Steel Surface Cleaner Spray, Streak-Free Shine, 600-g",7.19,7.99,0.0,0,0.7999999999999998,0.1
-"Petco Plush Pig Dog Toy, Small",3.5,3.99,4.4,579,0.4900000000000002,0.12
-"Vida by PADERNO Variable Temperature Glass Kettle, 1.7-L",49.99,99.99,0.0,0,49.99999999999999,0.5
-"Old Dutch Cold Water Liquid Laundry Detergent, Biodegradable, 2-L",3.0,4.99,0.0,0,1.9900000000000002,0.4
-"Bounty Select-A-Size Paper Towel, Double Rolls, 2-pk",5.0,13.99,4.5,5373,8.99,0.64
-"Bounce Fresh Linen Scented Fabric Softener Dryer Sheets, 250 count",12.59,29.99,4.7,772,17.4,0.58
-"Bluehive 45 Watt Carbon Fiber Car Charger with USB-C & USB-A Ports, Black",19.99,22.49,5.0,1,2.5,0.11
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 14 x 25 x 1-in, 1-pk",17.99,179.99,4.7,467,162.0,0.9
-Hoover CleanSlate Pet Plus Carpet & Upholstery Corded Portable Spot Deep Cleaner,129.99,499.99,0.0,0,370.0,0.74
-Shark Navigator® Lift-Away® Upright Vacuum with PowerFins,249.99,3.49,4.8,69,-246.5,-70.63
-Chewmasters Chomp Dog Bar,3.14,3.99,0.0,0,0.8500000000000001,0.21
-Petco Party Animal Plush Dog Toy,3.5,18.99,0.0,0,15.489999999999998,0.82
-"Keurig Folgers Hazelnut Cream Mild & Smooth K-Cup® Coffee Pods, 270-g, 30-pk",17.99,109.99,0.0,0,92.0,0.84
-"CANVAS Thorne 1-Light Pendant Light with Twine Shade, Matte Black",87.99,89.99,0.0,0,2.0,0.02
-NOMA iQ 35 Pint 2-Speed ENERGY STAR® Most Efficient Dehumidifier,269.99,319.99,4.5,4,50.0,0.16
-Trudeau 12 Bottle Revolving Square Spice Rack Carousel,29.99,59.99,0.0,0,30.000000000000004,0.5
-"Bodum Electric Cordless Gooseneck Water Kettle with Auto Shut Off, Black, 0.8-L",49.99,74.99,0.0,0,24.999999999999993,0.33
-"MAXIMUM 4-in-1 Hybrid Aluminum Hand Truck & Cart w/ Pneumatic Tires, 800-lb/1000-lb",249.99,449.99,5.0,2,200.0,0.44
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 20 x 25 x 1-in, 1-pk",17.99,22.49,4.7,467,4.5,0.2
-Shark AI VACMOP Self-Empty with CleanEdge,499.99,749.99,4.4,21,250.0,0.33
-"For Living 1-Light Ceiling Pendant Light, Matte White",51.99,64.99,0.0,0,12.999999999999993,0.2
-"Accuweight Digital Bathroom Scale, Wood/Tempered Glass, 400-lb",19.99,34.99,0.0,0,15.000000000000004,0.43
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 16 x 24 x 1-in, 1-pk",17.99,22.49,4.7,467,4.5,0.2
-"For Living 1-Light Ceiling Pendant Light, Matte Black",63.99,79.99,0.0,0,15.999999999999993,0.2
-Hoover ONEPWR® Evolve Pet Elite Cordless Vacuum Kit,299.99,449.99,4.6,92,150.0,0.33
-Hamilton Beach Power Elite Blender with Wave~Action,44.99,64.99,0.0,0,19.999999999999993,0.31
-"White Recycled Bath Mat, 20-in x 34-in",19.99,29.99,0.0,0,10.0,0.33
-"For Living 5-Reversible Blade 3-Speed Ceiling Fan with Lights, 44-in, Black",114.99,149.99,3.0,1,35.000000000000014,0.23
-"3M™ Filtrete™ Allergen Defense Micro Allergen Filter, MPR 1000, 20 x 20 x 1-in, 1-pk",17.99,22.49,4.7,467,4.5,0.2
-Chuckit Rugged Flyer,14.39,15.99,3.4,16,1.5999999999999996,0.1
-"CANVAS Sifton 1-Light Pendant Light with Clear Glass Shade, Matte Black",54.99,69.99,0.0,0,14.999999999999993,0.21
-"Cyclone 80 CFM 1.0 Sone Compact Bath Fan with DC Motor, White",59.99,69.99,0.0,0,9.999999999999993,0.14
-"Petco Plush Hedgeicorn Dog Toy, Small",3.5,3.99,0.0,0,0.4900000000000002,0.12
-"Reynolds Kitchens® Unbleached Non-Stick Air Fryer Liners, 50-pc",8.99,9.99,4.0,1,1.0,0.1
-"Bluehive 30 Watt USB-C Fast Charge PD Wall Charger for Smartphones & MacBook Air, White",19.99,29.99,4.9,8,10.0,0.33
-Petco Plush Racoon with Rope Dog Toy,3.5,3.99,0.0,0,0.4900000000000002,0.12
+new_price,old_price,stars,observations,Savings,discount
+219.99,279.99,4.4,182.0,60.0,0.21
+59.99,79.99,4.3,260.0,19.999999999999993,0.25
+149.99,499.99,4.3,61.0,350.0,0.7
+279.99,359.99,4.0,32.0,80.0,0.22
+229.99,499.99,4.2,222.0,270.0,0.54
+319.99,429.99,4.3,107.0,110.0,0.26
+12.49,24.99,4.1,360.0,12.499999999999998,0.5
+13.99,21.99,4.6,379.0,7.999999999999998,0.36
+299.99,449.99,4.2,204.0,150.0,0.33
+249.99,499.99,4.4,427.0,250.0,0.5
+599.99,679.99,4.6,48.0,80.0,0.12
+249.99,309.99,3.8,39.0,60.0,0.19
+149.99,299.99,4.3,436.0,150.0,0.5
+209.99,309.99,3.9,198.0,100.0,0.32
+249.99,1249.99,4.2,331.0,1000.0,0.8
+299.99,429.99,4.0,265.0,130.0,0.3
+899.99,1199.99,5.0,2.0,300.0,0.25
+171.99,214.99,4.7,190.0,43.0,0.2
+349.99,499.99,3.8,11.0,150.0,0.3
+149.99,279.99,4.7,2182.0,130.0,0.46
+549.99,999.99,4.4,66.0,450.0,0.45
+69.99,119.99,4.5,103.0,50.0,0.42
+22.99,49.99,4.3,492.0,27.000000000000004,0.54
+349.99,599.99,4.6,29.0,250.0,0.42
+14.99,26.99,4.6,712.0,11.999999999999998,0.44
+349.99,599.99,4.6,29.0,250.0,0.42
+139.99,229.99,4.7,714.0,90.0,0.39
+189.99,229.99,4.5,121.0,40.0,0.17
+209.99,309.99,4.4,176.0,100.0,0.32
+169.99,399.99,4.2,1025.0,230.0,0.58
+209.99,259.99,4.2,160.0,50.0,0.19
+139.99,169.99,4.1,210.0,30.0,0.18
+199.99,399.99,4.6,30.0,200.0,0.5
+69.99,119.99,4.5,208.0,50.0,0.42
+599.99,699.99,3.4,14.0,100.0,0.14
+199.99,679.99,4.1,104.0,480.0,0.71
+99.99,124.99,4.3,101.0,25.0,0.2
+249.99,349.99,4.6,242.0,100.0,0.29
+109.99,139.99,4.4,22.0,30.000000000000014,0.21
+279.99,319.99,5.0,6.0,40.0,0.13
+99.99,159.99,4.6,963.0,60.000000000000014,0.38
+279.99,329.99,3.7,41.0,50.0,0.15
+379.99,339.99,3.1,15.0,-40.0,-0.12
+169.99,999.99,3.9,395.0,830.0,0.83
+699.99,1599.99,4.6,113.0,900.0,0.56
+1299.99,279.99,4.7,3.0,-1020.0,-3.64
+149.99,119.99,4.7,2163.0,-30.000000000000014,-0.25
+99.99,145.21051630434783,4.8,76.0,54.15413043478261,0.13505434782608697
+219.99,349.99,4.159935897435898,219.31891025641025,130.0,0.37
+7.99,14.99,4.159935897435898,219.31891025641025,7.0,0.47
+399.99,1299.99,4.159935897435898,219.31891025641025,900.0,0.69
+299.99,569.99,4.159935897435898,219.31891025641025,270.0,0.47
+239.99,354.99,4.159935897435898,219.31891025641025,115.0,0.32
+149.99,599.99,4.159935897435898,219.31891025641025,450.0,0.75
+99.99,119.99,4.159935897435898,219.31891025641025,20.0,0.17
+99.99,199.99,4.159935897435898,219.31891025641025,100.00000000000001,0.5
+39.99,59.99,4.159935897435898,219.31891025641025,20.0,0.33
+71.99,79.99,4.159935897435898,219.31891025641025,8.0,0.1
+199.99,299.99,4.159935897435898,219.31891025641025,100.0,0.33
+59.99,99.99,4.159935897435898,219.31891025641025,39.99999999999999,0.4
+49.99,99.99,4.159935897435898,219.31891025641025,49.99999999999999,0.5
+549.99,999.99,4.159935897435898,219.31891025641025,450.0,0.45
+49.99,79.99,4.159935897435898,219.31891025641025,29.999999999999993,0.38
+99.99,169.99,4.159935897435898,219.31891025641025,70.00000000000001,0.41
+169.99,189.99,4.159935897435898,219.31891025641025,20.0,0.11
+999.99,1399.99,4.159935897435898,219.31891025641025,400.0,0.29
+399.99,1349.99,4.159935897435898,219.31891025641025,950.0,0.7
+69.99,139.99,4.159935897435898,219.31891025641025,70.00000000000001,0.5
+34.99,49.99,4.159935897435898,219.31891025641025,15.0,0.3
+19.99,99.99,4.159935897435898,219.31891025641025,80.0,0.8
+89.99,114.99,4.159935897435898,219.31891025641025,25.0,0.22
+299.99,999.99,4.159935897435898,219.31891025641025,700.0,0.7
+11.49,19.99,4.0,212.0,8.499999999999998,0.43
+39.99,49.99,4.2,120.0,10.0,0.2
+27.99,39.99,3.5,99.0,12.000000000000004,0.3
+59.99,84.99,4.3,222.0,24.999999999999993,0.29
+209.99,319.99,4.8,38.0,110.0,0.34
+59.99,89.99,4.1,231.0,29.999999999999993,0.33
+24.99,39.99,3.6,93.0,15.000000000000004,0.38
+135.99,169.99,4.5,41.0,34.0,0.2
+9.99,14.99,3.9,65.0,5.0,0.33
+109.99,139.99,4.2,412.0,30.000000000000014,0.21
+399.99,799.99,3.9,115.0,400.0,0.5
+14.99,18.99,4.6,179.0,3.9999999999999982,0.21
+109.99,139.99,4.2,24.0,30.000000000000014,0.21
+99.99,499.99,3.6,138.0,400.0,0.8
+219.99,334.99,4.6,28.0,115.0,0.34
+41.24,54.99,4.4,183.0,13.75,0.25
+199.99,229.99,4.9,11.0,30.0,0.13
+9.99,15.99,4.8,153.0,6.0,0.38
+79.99,119.99,4.3,157.0,40.0,0.33
+299.99,369.99,4.3,42.0,70.0,0.19
+13.79,22.99,4.8,378.0,9.2,0.4
+59.99,99.99,3.7,147.0,39.99999999999999,0.4
+49.99,62.99,4.3,130.0,13.0,0.21
+499.99,599.99,3.7,19.0,100.0,0.17
+199.99,279.99,4.3,520.0,80.0,0.29
+449.99,549.99,4.2,132.0,100.0,0.18
+99.19,123.99,3.8,26.0,24.799999999999997,0.2
+199.99,599.99,4.1,64.0,400.0,0.67
+259.99,324.99,3.6,28.0,65.0,0.2
+399.99,499.99,4.5,94.0,100.0,0.2
+99.99,149.99,4.5,190.0,50.000000000000014,0.33
+179.99,259.99,3.8,16.0,80.0,0.31
+31.59,37.99,4.6,649.0,6.400000000000002,0.17
+359.99,449.99,4.2,86.0,90.0,0.2
+199.99,239.99,4.4,132.0,40.0,0.17
+159.99,259.99,4.5,269.0,100.0,0.38
+299.99,999.99,4.3,603.0,700.0,0.7
+191.99,239.99,4.5,68.0,48.0,0.2
+79.99,269.99,4.5,179.0,190.0,0.7
+39.99,49.99,4.2,148.0,10.0,0.2
+34.99,69.99,4.3,163.0,34.99999999999999,0.5
+199.99,699.99,3.6,204.0,500.0,0.71
+39.99,169.99,4.0,183.0,130.0,0.76
+19.99,29.99,3.3,134.0,10.0,0.33
+199.99,239.99,3.7,20.0,40.0,0.17
+39.99,49.99,4.5,89.0,10.0,0.2
+239.99,289.99,4.2,140.0,50.0,0.17
+103.99,129.99,4.3,52.0,26.000000000000014,0.2
+599.99,999.99,4.3,141.0,400.0,0.4
+13.99,39.99,4.3,98.0,26.0,0.65
+59.99,119.99,3.7,110.0,59.99999999999999,0.5
+1349.99,1749.99,4.2,11.0,400.0,0.23
+89.99,114.99,3.4,48.0,25.0,0.22
+329.99,379.99,3.5,26.0,50.0,0.13
+499.99,679.99,4.3,253.0,180.0,0.26
+69.99,99.99,4.1,107.0,30.0,0.3
+179.99,249.99,4.2,269.0,70.0,0.28
+229.99,329.99,4.7,1660.0,100.0,0.3
+279.99,319.99,4.3,182.0,40.0,0.13
+29.99,119.99,4.6,293.0,90.0,0.75
+14.99,19.99,4.2,124.0,4.999999999999998,0.25
+64.99,124.99,4.6,541.0,60.0,0.48
+56.99,75.99,3.5,130.0,18.999999999999993,0.25
+249.99,899.99,4.5,425.0,650.0,0.72
+49.99,79.99,4.0,154.0,29.999999999999993,0.38
+14.99,29.99,4.5,486.0,14.999999999999998,0.5
+51.88,57.99,4.5,93.0,6.109999999999999,0.11
+69.99,99.99,4.1,293.0,30.0,0.3
+79.99,159.99,4.3,1234.0,80.00000000000001,0.5
+319.99,399.99,4.3,1082.0,80.0,0.2
+119.99,149.99,3.8,238.0,30.000000000000014,0.2
+119.99,149.99,4.0,62.0,30.000000000000014,0.2
+149.99,189.99,3.8,74.0,40.0,0.21
+69.99,99.99,4.2,113.0,30.0,0.3
+29.99,84.99,2.8,359.0,55.0,0.65
+49.99,129.99,4.6,81.0,80.0,0.62
+28.79,31.99,4.8,1243.0,3.1999999999999993,0.1
+169.99,199.99,4.4,125.0,30.0,0.15
+69.99,179.99,3.9,16.0,110.00000000000001,0.61
+209.99,259.99,3.8,29.0,50.0,0.19
+249.99,339.99,3.9,34.0,90.0,0.26
+109.99,129.99,4.7,903.0,20.000000000000014,0.15
+39.99,69.99,4.0,32.0,29.999999999999993,0.43
+247.99,309.99,4.0,125.0,62.0,0.2
+16.09,18.99,4.2,246.0,2.8999999999999986,0.15
+22.49,29.99,4.1,142.0,7.5,0.25
+99.99,349.99,4.3,145.0,250.0,0.71
+10.99,13.99,4.6,287.0,3.0,0.21
+69.99,119.99,4.7,58.0,50.0,0.42
+139.99,229.99,4.3,60.0,90.0,0.39
+48.99,69.99,4.3,211.0,20.999999999999993,0.3
+37.99,54.99,4.2,124.0,17.0,0.31
+104.99,139.99,4.5,36.0,35.000000000000014,0.25
+74.99,99.99,4.3,39.0,25.0,0.25
+84.99,184.99,3.5,11.0,100.00000000000001,0.54
+129.99,259.99,4.1,898.0,130.0,0.5
+209.99,349.99,3.8,57.0,140.0,0.4
+69.99,99.99,4.5,24.0,30.0,0.3
+49.99,79.99,3.4,158.0,29.999999999999993,0.38
+79.99,149.99,3.8,127.0,70.00000000000001,0.47
+63.99,79.99,4.3,57.0,15.999999999999993,0.2
+123.99,154.99,4.2,35.0,31.000000000000014,0.2
+52.99,62.99,4.6,81.0,10.0,0.16
+19.99,29.99,4.0,260.0,10.0,0.33
+49.99,129.99,4.7,85.0,80.0,0.62
+54.99,104.99,4.7,759.0,49.99999999999999,0.48
+299.99,399.99,3.9,14.0,100.0,0.25
+211.99,264.99,4.4,21.0,53.0,0.2
+58.99,78.99,4.2,76.0,19.999999999999993,0.25
+69.99,99.99,4.5,64.0,30.0,0.3
+19.99,39.99,4.6,84.0,20.000000000000004,0.5
+29.99,42.99,4.0,159.0,13.000000000000004,0.3
+52.49,104.99,3.1,422.0,52.49999999999999,0.5
+39.99,139.99,4.6,574.0,100.0,0.71
+17.99,27.99,4.4,66.0,10.0,0.36
+142.99,179.99,4.0,150.0,37.0,0.21
+199.99,329.99,4.1,43.0,130.0,0.39
+29.99,99.99,4.2,501.0,70.0,0.7
+79.99,99.99,4.8,6.0,20.0,0.2
+99.99,499.99,4.3,117.0,400.0,0.8
+34.99,119.99,4.2,202.0,85.0,0.71
+169.99,249.99,3.7,86.0,80.0,0.32
+79.99,99.99,4.6,64.0,20.0,0.2
+199.99,179.99,4.2,86.0,-20.0,-0.11
+129.99,129.99,3.1,78.0,0.0,0.0
+249.99,119.99,3.8,68.0,-130.0,-1.08
+109.99,59.99,4.6,1183.0,-49.99999999999999,-0.83
+69.99,699.99,3.5,70.0,630.0,0.9
+29.99,44.99,4.3,227.0,15.000000000000004,0.33
+199.99,79.99,3.8,82.0,-120.00000000000001,-1.5
+35.99,89.99,4.3,23.0,53.99999999999999,0.6
+55.99,69.99,4.3,36.0,13.999999999999993,0.2
+69.99,19.99,3.6,292.0,-50.0,-2.5
+54.99,199.99,4.2,39.0,145.0,0.73
+14.99,84.99,4.8,2165.0,70.0,0.82
+119.99,35.99,4.1,29.0,-84.0,-2.33
+59.99,399.99,4.3,152.0,340.0,0.85
+26.99,124.99,4.1,59.0,98.0,0.78
+299.99,174.99,4.0,15.0,-125.0,-0.71
+74.99,149.99,4.4,38.0,75.00000000000001,0.5
+99.99,299.99,4.3,178.0,200.0,0.67
+99.99,27.99,4.4,109.0,-72.0,-2.57
+99.99,145.21051630434783,3.0,30.0,54.15413043478261,0.13505434782608697
+17.99,145.21051630434783,4.6,106.0,54.15413043478261,0.13505434782608697
+69.99,172.99,4.0,2.0,103.00000000000001,0.6
+82.99,204.99,4.0,93.0,122.00000000000001,0.6
+349.99,499.99,5.0,4.0,150.0,0.3
+89.99,149.99,3.9,60.0,60.000000000000014,0.4
+104.99,139.99,4.0,5.0,35.000000000000014,0.25
+14.99,29.99,4.4,155.0,14.999999999999998,0.5
+29.99,64.99,3.7,208.0,35.0,0.54
+249.99,399.99,4.5,55.0,150.0,0.38
+49.99,129.99,4.2,19.0,80.0,0.62
+99.99,179.99,3.7,68.0,80.00000000000001,0.44
+149.99,259.99,3.4,74.0,110.0,0.42
+214.99,269.99,3.9,29.0,55.0,0.2
+11.99,18.99,4.4,245.0,6.999999999999998,0.37
+39.99,69.99,3.1,96.0,29.999999999999993,0.43
+79.99,159.99,4.5,162.0,80.00000000000001,0.5
+79.99,159.99,4.2,74.0,80.00000000000001,0.5
+57.59,71.99,3.5,60.0,14.399999999999991,0.2
+27.99,49.99,4.2,58.0,22.000000000000004,0.44
+23.99,39.99,3.8,60.0,16.000000000000004,0.4
+32.39,35.99,3.8,174.0,3.6000000000000014,0.1
+39.99,69.99,4.2,100.0,29.999999999999993,0.43
+54.99,99.99,4.4,415.0,44.99999999999999,0.45
+149.99,189.99,3.9,66.0,40.0,0.21
+59.99,109.99,4.5,26.0,49.99999999999999,0.45
+29.99,54.99,4.159935897435898,219.31891025641025,25.000000000000004,0.45
+49.99,79.99,4.159935897435898,219.31891025641025,29.999999999999993,0.38
+89.99,99.99,4.159935897435898,219.31891025641025,10.0,0.1
+69.99,99.99,4.159935897435898,219.31891025641025,30.0,0.3
+299.99,999.99,4.159935897435898,219.31891025641025,700.0,0.7
+34.99,49.99,4.159935897435898,219.31891025641025,15.0,0.3
+24.99,29.99,4.159935897435898,219.31891025641025,5.0,0.17
+44.99,84.99,4.159935897435898,219.31891025641025,39.99999999999999,0.47
+23.99,29.99,4.159935897435898,219.31891025641025,6.0,0.2
+69.99,139.99,4.159935897435898,219.31891025641025,70.00000000000001,0.5
+22.89,26.99,4.159935897435898,219.31891025641025,4.099999999999998,0.15
+23.99,29.99,4.159935897435898,219.31891025641025,6.0,0.2
+339.99,389.99,4.159935897435898,219.31891025641025,50.0,0.13
+119.99,169.99,4.159935897435898,219.31891025641025,50.000000000000014,0.29
+59.99,199.99,4.159935897435898,219.31891025641025,140.0,0.7
+223.99,279.99,4.159935897435898,219.31891025641025,56.0,0.2
+149.99,177.99,4.159935897435898,219.31891025641025,28.0,0.16
+8.99,17.99,4.159935897435898,219.31891025641025,8.999999999999998,0.5
+449.99,499.99,4.159935897435898,219.31891025641025,50.0,0.1
+127.99,159.99,4.159935897435898,219.31891025641025,32.000000000000014,0.2
+49.99,62.99,4.159935897435898,219.31891025641025,13.0,0.21
+149.99,199.99,4.159935897435898,219.31891025641025,50.0,0.25
+24.99,36.99,4.159935897435898,219.31891025641025,12.000000000000004,0.32
+11.99,14.99,4.159935897435898,219.31891025641025,3.0,0.2
+39.99,49.99,4.159935897435898,219.31891025641025,10.0,0.2
+34.99,69.99,4.159935897435898,219.31891025641025,34.99999999999999,0.5
+24.99,29.99,4.159935897435898,219.31891025641025,5.0,0.17
+89.99,99.99,4.159935897435898,219.31891025641025,10.0,0.1
+14.99,49.99,4.159935897435898,219.31891025641025,35.0,0.7
+84.99,99.99,4.159935897435898,219.31891025641025,15.0,0.15
+65.99,109.99,4.159935897435898,219.31891025641025,44.0,0.4
+199.99,279.99,4.159935897435898,219.31891025641025,80.0,0.29
+5.99,9.99,4.159935897435898,219.31891025641025,4.0,0.4
+19.99,25.99,4.159935897435898,219.31891025641025,6.0,0.23
+79.99,99.99,4.159935897435898,219.31891025641025,20.0,0.2
+30.39,37.99,4.159935897435898,219.31891025641025,7.600000000000001,0.2
+39.99,49.99,4.159935897435898,219.31891025641025,10.0,0.2
+51.99,64.99,4.159935897435898,219.31891025641025,12.999999999999993,0.2
+19.99,28.99,4.159935897435898,219.31891025641025,9.0,0.31
+199.99,399.99,4.159935897435898,219.31891025641025,200.0,0.5
+8.79,9.79,4.159935897435898,219.31891025641025,1.0,0.1
+49.99,67.99,4.159935897435898,219.31891025641025,17.999999999999993,0.26
+14.99,45.99,4.159935897435898,219.31891025641025,31.0,0.67
+38.39,49.99,4.159935897435898,219.31891025641025,11.600000000000001,0.23
+29.99,37.99,4.159935897435898,219.31891025641025,8.000000000000004,0.21
+39.99,49.99,4.159935897435898,219.31891025641025,10.0,0.2
+47.99,59.99,4.159935897435898,219.31891025641025,12.0,0.2
+9.99,19.99,4.159935897435898,219.31891025641025,9.999999999999998,0.5
+170.99,189.99,4.159935897435898,219.31891025641025,19.0,0.1
+22.89,26.99,4.159935897435898,219.31891025641025,4.099999999999998,0.15
+17.99,27.99,4.159935897435898,219.31891025641025,10.0,0.36
+14.99,19.99,4.159935897435898,219.31891025641025,4.999999999999998,0.25
+139.99,169.99,4.159935897435898,219.31891025641025,30.0,0.18
+67.99,84.99,4.159935897435898,219.31891025641025,17.0,0.2
+69.99,119.99,4.159935897435898,219.31891025641025,50.0,0.42
+97.99,139.99,4.159935897435898,219.31891025641025,42.000000000000014,0.3
+199.99,299.99,4.159935897435898,219.31891025641025,100.0,0.33
+99.99,349.99,4.159935897435898,219.31891025641025,250.0,0.71
+48.59,53.99,4.159935897435898,219.31891025641025,5.399999999999999,0.1
+47.99,59.99,4.159935897435898,219.31891025641025,12.0,0.2
+115.99,145.99,4.159935897435898,219.31891025641025,30.000000000000014,0.21
+119.99,229.99,4.159935897435898,219.31891025641025,110.00000000000001,0.48
+149.99,259.99,4.159935897435898,219.31891025641025,110.0,0.42
+13.49,14.99,4.159935897435898,219.31891025641025,1.5,0.1
+103.99,129.99,4.159935897435898,219.31891025641025,26.000000000000014,0.2
+199.99,229.99,4.159935897435898,219.31891025641025,30.0,0.13
+13.49,14.99,4.159935897435898,219.31891025641025,1.5,0.1
+75.99,94.99,4.159935897435898,219.31891025641025,19.0,0.2
+54.99,64.99,4.159935897435898,219.31891025641025,9.999999999999993,0.15
+53.99,76.99,4.159935897435898,219.31891025641025,22.999999999999993,0.3
+44.99,64.99,4.159935897435898,219.31891025641025,19.999999999999993,0.31
+39.99,94.99,4.159935897435898,219.31891025641025,54.99999999999999,0.58
+54.99,84.99,4.159935897435898,219.31891025641025,29.999999999999993,0.35
+329.99,379.99,4.159935897435898,219.31891025641025,50.0,0.13
+91.99,114.99,4.159935897435898,219.31891025641025,23.0,0.2
+69.99,79.99,4.159935897435898,219.31891025641025,10.0,0.13
+89.99,119.99,4.159935897435898,219.31891025641025,30.0,0.25
+8.79,9.79,4.159935897435898,219.31891025641025,1.0,0.1
+24.49,34.99,4.159935897435898,219.31891025641025,10.500000000000004,0.3
+7.49,8.99,4.159935897435898,219.31891025641025,1.5,0.17
+22.89,26.99,4.159935897435898,219.31891025641025,4.099999999999998,0.15
+39.99,49.99,4.159935897435898,219.31891025641025,10.0,0.2
+58.99,69.99,4.159935897435898,219.31891025641025,10.999999999999993,0.16
+34.99,59.99,4.159935897435898,219.31891025641025,25.0,0.42
+4.99,13.99,4.159935897435898,219.31891025641025,9.0,0.64
+19.99,34.99,4.159935897435898,219.31891025641025,15.000000000000004,0.43
+139.99,199.99,4.159935897435898,219.31891025641025,60.0,0.3
+79.99,99.99,4.159935897435898,219.31891025641025,20.0,0.2
+279.99,329.99,4.159935897435898,219.31891025641025,50.0,0.15
+35.99,39.99,4.159935897435898,219.31891025641025,4.0,0.1
+71.99,89.99,4.159935897435898,219.31891025641025,18.0,0.2
+23.99,39.99,4.159935897435898,219.31891025641025,16.000000000000004,0.4
+79.99,179.99,4.159935897435898,219.31891025641025,100.00000000000001,0.56
+71.99,89.99,4.159935897435898,219.31891025641025,18.0,0.2
+99.99,139.99,4.159935897435898,219.31891025641025,40.000000000000014,0.29
+14.99,19.99,4.159935897435898,219.31891025641025,4.999999999999998,0.25
+99.99,134.99,3.5,68.0,35.000000000000014,0.26
+14.99,19.99,4.7,121.0,4.999999999999998,0.25
+26.99,33.99,4.3,23.0,7.0000000000000036,0.21
+59.99,89.99,4.3,12.0,29.999999999999993,0.33
+199.99,229.99,3.4,82.0,30.0,0.13
+19.99,29.99,3.8,118.0,10.0,0.33
+4.49,5.99,4.5,95.0,1.5,0.25
+51.99,64.99,4.2,49.0,12.999999999999993,0.2
+149.99,179.99,4.8,140.0,30.0,0.17
+99.99,319.99,4.7,54.0,220.0,0.69
+199.99,15.99,0.0,0.0,-184.0,-11.51
+12.79,9.79,3.0,139.0,-3.0,-0.31
+8.79,119.99,4.5,31.0,111.19999999999999,0.93
+99.99,39.99,2.3,4.0,-59.99999999999999,-1.5
+22.99,99.99,4.1,61.0,77.0,0.77
+69.99,19.99,3.0,67.0,-50.0,-2.5
+17.99,23.99,4.4,81.0,6.0,0.25
+11.99,199.99,3.9,15.0,188.0,0.94
+149.99,19.99,4.2,33.0,-130.0,-6.5
+9.99,119.99,3.7,163.0,110.0,0.92
+69.99,49.99,4.5,28.0,-19.999999999999993,-0.4
+39.99,28.99,4.3,35.0,-11.000000000000004,-0.38
+19.99,14.99,4.0,58.0,-4.999999999999998,-0.33
+13.49,145.21051630434783,4.9,23.0,54.15413043478261,0.13505434782608697
+11.39,18.99,3.8,245.0,7.599999999999998,0.4
+109.99,159.99,4.7,97.0,50.000000000000014,0.31
+12.69,14.99,3.8,162.0,2.3000000000000007,0.15
+103.99,129.99,4.1,89.0,26.000000000000014,0.2
+49.99,169.99,4.6,212.0,120.0,0.71
+19.99,39.99,4.0,21.0,20.000000000000004,0.5
+13.49,14.99,3.7,113.0,1.5,0.1
+24.99,39.99,4.1,55.0,15.000000000000004,0.38
+49.99,99.99,4.5,58.0,49.99999999999999,0.5
+47.99,79.99,4.1,38.0,31.999999999999993,0.4
+14.99,21.99,4.8,171.0,6.999999999999998,0.32
+99.99,199.99,3.2,13.0,100.00000000000001,0.5
+119.99,149.99,4.2,275.0,30.000000000000014,0.2
+19.49,22.99,4.7,3751.0,3.5,0.15
+24.99,29.99,4.4,18.0,5.0,0.17
+12.69,14.99,3.7,148.0,2.3000000000000007,0.15
+64.99,93.99,3.5,63.0,29.0,0.31
+109.99,164.99,3.8,12.0,55.000000000000014,0.33
+99.99,29.99,3.5,6.0,-70.0,-2.33
+23.99,119.99,2.7,178.0,96.0,0.8
+89.99,109.99,4.8,17.0,20.0,0.18
+74.99,24.99,4.2,33.0,-50.0,-2.0
+14.99,14.99,4.4,67.0,0.0,0.0
+11.24,145.21051630434783,4.7,107.0,54.15413043478261,0.13505434782608697
+11.99,15.99,4.1,116.0,4.0,0.25
+67.49,89.99,4.1,16.0,22.5,0.25
+19.99,69.99,4.6,217.0,50.0,0.71
+6.49,8.99,4.7,116.0,2.5,0.28
+49.99,169.99,4.6,433.0,120.0,0.71
+99.99,134.99,3.5,34.0,35.000000000000014,0.26
+21.59,26.99,4.7,182.0,5.399999999999999,0.2
+49.99,69.99,4.1,60.0,19.999999999999993,0.29
+16.09,18.99,4.1,56.0,2.8999999999999986,0.15
+82.99,204.99,3.7,75.0,122.00000000000001,0.6
+12.49,14.99,4.3,82.0,2.5,0.17
+39.99,49.99,4.0,174.0,10.0,0.2
+149.99,199.99,3.9,79.0,50.0,0.25
+29.99,59.99,3.7,14.0,30.000000000000004,0.5
+19.99,39.99,4.2,382.0,20.000000000000004,0.5
+49.99,99.99,4.3,18.0,49.99999999999999,0.5
+5.0,5.99,4.6,138.0,0.9900000000000002,0.17
+49.99,129.99,4.8,71.0,80.0,0.62
+59.99,74.99,3.8,42.0,14.999999999999993,0.2
+29.99,39.99,3.9,158.0,10.000000000000004,0.25
+12.99,16.99,4.6,44.0,3.9999999999999982,0.24
+9.99,16.99,4.6,105.0,6.999999999999998,0.41
+54.99,59.99,4.6,27.0,5.0,0.08
+34.99,43.99,4.0,32.0,9.0,0.2
+39.99,49.99,3.1,12.0,10.0,0.2
+125.99,139.99,4.5,383.0,14.000000000000014,0.1
+16.99,33.99,4.4,241.0,17.000000000000004,0.5
+83.99,119.99,3.2,11.0,36.0,0.3
+39.99,74.99,4.2,82.0,34.99999999999999,0.47
+23.99,31.99,4.5,84.0,8.0,0.25
+49.99,59.99,4.1,8.0,10.0,0.17
+17.99,29.99,4.3,47.0,12.0,0.4
+69.99,239.99,4.4,120.0,170.0,0.71
+19.99,34.99,4.5,4.0,15.000000000000004,0.43
+7.99,13.49,3.3,99.0,5.5,0.41
+127.99,159.99,3.4,41.0,32.000000000000014,0.2
+9.99,19.99,4.8,5.0,9.999999999999998,0.5
+54.99,59.99,4.3,6.0,5.0,0.08
+22.99,79.99,4.3,303.0,57.0,0.71
+44.99,59.99,3.7,76.0,15.0,0.25
+24.99,34.99,4.2,49.0,10.000000000000004,0.29
+7.99,13.49,3.9,165.0,5.5,0.41
+24.99,29.99,3.6,251.0,5.0,0.17
+7.19,7.99,4.8,119.0,0.7999999999999998,0.1
+49.99,65.99,4.9,624.0,15.999999999999993,0.24
+154.99,209.99,4.3,25.0,55.0,0.26
+11.99,18.99,4.6,146.0,6.999999999999998,0.37
+21.59,23.99,4.8,64.0,2.3999999999999986,0.1
+89.99,299.99,4.8,43.0,210.0,0.7
+5.0,5.99,4.6,96.0,0.9900000000000002,0.17
+27.99,55.99,4.1,60.0,28.000000000000004,0.5
+79.99,99.99,3.5,4.0,20.0,0.2
+49.99,59.99,4.8,32.0,10.0,0.17
+29.99,41.99,4.4,31.0,12.000000000000004,0.29
+19.99,79.99,4.4,129.0,60.0,0.75
+159.99,199.99,4.5,11.0,40.0,0.2
+4.94,5.49,4.3,1071.0,0.5499999999999998,0.1
+59.99,69.99,5.0,11.0,9.999999999999993,0.14
+15.29,16.99,4.3,38.0,1.6999999999999993,0.1
+53.99,67.99,4.6,82.0,13.999999999999993,0.21
+21.59,23.99,4.2,15.0,2.3999999999999986,0.1
+13.49,14.99,4.8,9.0,1.5,0.1
+35.99,39.99,4.7,491.0,4.0,0.1
+89.99,199.99,3.9,33.0,110.00000000000001,0.55
+44.99,56.99,3.8,73.0,12.0,0.21
+29.99,39.99,4.3,22.0,10.000000000000004,0.25
+22.49,24.99,4.9,557.0,2.5,0.1
+239.99,379.99,4.3,121.0,140.0,0.37
+29.99,39.99,4.6,22.0,10.000000000000004,0.25
+17.99,24.99,4.4,46.0,7.0,0.28
+6.39,7.99,4.3,82.0,1.6000000000000005,0.2
+19.99,69.99,4.6,128.0,50.0,0.71
+219.99,259.99,4.3,550.0,40.0,0.15
+19.99,39.99,4.3,44.0,20.000000000000004,0.5
+29.99,39.99,4.3,24.0,10.000000000000004,0.25
+14.99,19.99,3.8,26.0,4.999999999999998,0.25
+15.49,20.99,4.7,3533.0,5.499999999999998,0.26
+26.99,31.99,4.2,24.0,5.0,0.16
+18.49,24.99,4.6,3029.0,6.5,0.26
+54.99,59.99,4.5,113.0,5.0,0.08
+17.99,19.99,4.5,28.0,2.0,0.1
+18.74,24.99,4.0,18.0,6.25,0.25
+22.49,29.99,3.2,10.0,7.5,0.25
+48.59,53.99,4.5,125.0,5.399999999999999,0.1
+11.99,19.99,4.7,70.0,7.999999999999998,0.4
+7.19,7.99,4.8,133.0,0.7999999999999998,0.1
+17.99,25.99,4.2,109.0,8.0,0.31
+69.99,87.99,4.2,268.0,18.0,0.2
+134.99,149.99,3.9,55.0,15.0,0.1
+129.99,199.99,4.0,50.0,70.0,0.35
+21.99,27.99,3.7,174.0,6.0,0.21
+12.99,19.99,3.1,151.0,6.999999999999998,0.35
+29.99,59.99,4.0,4.0,30.000000000000004,0.5
+29.99,59.99,4.5,61.0,30.000000000000004,0.5
+19.99,29.99,4.6,57.0,10.0,0.33
+5.0,6.99,4.4,45.0,1.9900000000000002,0.28
+9.99,16.99,4.6,106.0,6.999999999999998,0.41
+14.99,24.99,4.7,25.0,9.999999999999998,0.4
+47.99,64.99,2.7,19.0,16.999999999999993,0.26
+29.99,59.99,3.9,59.0,30.000000000000004,0.5
+99.99,649.99,3.5,25.0,550.0,0.85
+12.69,14.99,3.8,83.0,2.3000000000000007,0.15
+119.99,349.99,4.0,13.0,230.0,0.66
+19.99,24.99,4.7,34.0,5.0,0.2
+349.99,449.99,4.0,25.0,100.0,0.22
+599.99,999.99,4.2,11.0,400.0,0.4
+17.99,29.99,4.2,77.0,12.0,0.4
+53.99,59.99,4.8,33.0,6.0,0.1
+21.59,26.99,3.8,81.0,5.399999999999999,0.2
+29.99,39.99,4.5,62.0,10.000000000000004,0.25
+29.99,59.99,4.6,22.0,30.000000000000004,0.5
+119.99,399.99,4.0,27.0,280.0,0.7
+9.99,19.99,4.5,2.0,9.999999999999998,0.5
+54.99,59.99,4.8,131.0,5.0,0.08
+44.99,52.99,4.6,42.0,8.0,0.15
+14.99,18.99,3.3,34.0,3.9999999999999982,0.21
+17.59,21.99,4.4,128.0,4.399999999999999,0.2
+32.79,40.99,3.8,39.0,8.200000000000003,0.2
+41.99,51.99,2.6,10.0,10.0,0.19
+21.69,30.99,4.1,30.0,9.299999999999997,0.3
+24.99,49.99,4.6,19.0,25.000000000000004,0.5
+20.24,26.99,3.7,109.0,6.75,0.25
+79.99,89.99,3.7,25.0,10.0,0.11
+11.89,16.99,4.6,15.0,5.099999999999998,0.3
+9.79,13.99,4.8,10.0,4.200000000000001,0.3
+16.99,24.99,4.5,48.0,8.0,0.32
+19.99,24.99,4.8,21.0,5.0,0.2
+6.99,8.99,4.5,63.0,2.0,0.22
+9.99,19.99,4.2,5.0,9.999999999999998,0.5
+18.89,26.99,4.2,126.0,8.099999999999998,0.3
+219.99,279.99,4.6,81.0,60.0,0.21
+24.99,39.99,3.4,105.0,15.000000000000004,0.38
+14.99,19.99,4.1,39.0,4.999999999999998,0.25
+49.99,169.99,4.5,206.0,120.0,0.71
+26.99,59.99,4.8,6.0,33.0,0.55
+89.99,299.99,4.6,48.0,210.0,0.7
+12.99,25.99,4.2,60.0,12.999999999999998,0.5
+16.99,19.99,4.2,92.0,3.0,0.15
+49.49,54.99,3.9,41.0,5.5,0.1
+12.99,25.99,4.0,65.0,12.999999999999998,0.5
+49.99,99.99,4.6,9.0,49.99999999999999,0.5
+5.39,5.99,4.6,54.0,0.6000000000000005,0.1
+189.99,209.99,4.2,44.0,20.0,0.1
+63.99,79.99,4.3,36.0,15.999999999999993,0.2
+67.99,84.99,3.7,46.0,17.0,0.2
+47.99,79.99,3.7,138.0,31.999999999999993,0.4
+10.79,11.99,4.9,2113.0,1.200000000000001,0.1
+94.99,114.99,4.7,20.0,20.0,0.17
+47.99,59.99,4.7,55.0,12.0,0.2
+14.44,19.99,4.0,41.0,5.549999999999999,0.28
+19.79,21.99,4.6,2996.0,2.1999999999999993,0.1
+6.24,12.49,3.0,36.0,6.25,0.5
+11.99,15.99,3.9,54.0,4.0,0.25
+129.99,154.99,3.9,58.0,25.0,0.16
+5.99,14.99,3.6,151.0,9.0,0.6
+11.89,16.99,4.9,10.0,5.099999999999998,0.3
+39.99,49.99,4.3,4.0,10.0,0.2
+39.99,79.99,4.4,385.0,39.99999999999999,0.5
+12.49,24.99,3.7,46.0,12.499999999999998,0.5
+13.19,21.99,3.7,9.0,8.799999999999999,0.4
+10.99,13.99,4.6,22.0,3.0,0.21
+69.99,94.99,3.7,35.0,25.0,0.26
+5.39,5.99,4.8,25.0,0.6000000000000005,0.1
+15.99,19.99,3.7,32.0,3.9999999999999982,0.2
+15.29,17.99,4.6,287.0,2.6999999999999993,0.15
+24.99,49.99,2.0,1.0,25.000000000000004,0.5
+12.99,59.99,4.6,37.0,47.0,0.78
+5.99,7.49,2.9,41.0,1.5,0.2
+16.99,24.99,4.6,64.0,8.0,0.32
+5.0,5.99,4.6,41.0,0.9900000000000002,0.17
+13.59,16.99,4.2,55.0,3.3999999999999986,0.2
+44.99,59.99,3.0,118.0,15.0,0.25
+17.99,19.99,4.8,13.0,2.0,0.1
+8.99,9.99,4.2,15.0,1.0,0.1
+12.49,24.99,3.7,19.0,12.499999999999998,0.5
+13.99,25.99,3.3,165.0,11.999999999999998,0.46
+37.49,49.99,3.2,102.0,12.5,0.25
+24.99,84.99,4.4,58.0,60.0,0.71
+7.99,15.99,4.2,24.0,8.0,0.5
+48.59,53.99,4.5,266.0,5.399999999999999,0.1
+149.99,209.99,3.6,65.0,60.0,0.29
+9.89,10.99,4.7,291.0,1.0999999999999996,0.1
+11.99,19.99,4.2,39.0,7.999999999999998,0.4
+14.99,19.99,3.4,12.0,4.999999999999998,0.25
+24.99,39.99,3.2,62.0,15.000000000000004,0.38
+14.84,16.49,4.3,43.0,1.6499999999999986,0.1
+55.99,79.99,4.1,50.0,23.999999999999993,0.3
+13.19,16.49,4.5,10.0,3.299999999999999,0.2
+17.99,19.99,4.9,12.0,2.0,0.1
+9.89,10.99,4.8,71.0,1.0999999999999996,0.1
+44.99,62.99,4.4,7.0,18.0,0.29
+14.99,29.99,3.2,16.0,14.999999999999998,0.5
+8.54,9.49,4.1,448.0,0.9500000000000011,0.1
+24.99,59.99,4.5,4.0,35.0,0.58
+17.99,19.99,3.6,19.0,2.0,0.1
+19.99,29.99,3.8,28.0,10.0,0.33
+39.99,79.99,4.5,48.0,39.99999999999999,0.5
+9.99,19.99,3.1,32.0,9.999999999999998,0.5
+48.59,53.99,4.6,148.0,5.399999999999999,0.1
+11.69,12.99,3.1,93.0,1.3000000000000007,0.1
+12.59,13.99,4.7,3738.0,1.4000000000000004,0.1
+9.89,10.99,4.6,3777.0,1.0999999999999996,0.1
+8.99,9.99,4.8,14.0,1.0,0.1
+29.99,39.99,2.8,29.0,10.000000000000004,0.25
+13.59,16.99,4.1,9617.0,3.3999999999999986,0.2
+12.59,13.99,5.0,3.0,1.4000000000000004,0.1
+14.39,17.99,4.8,65.0,3.599999999999998,0.2
+5.0,5.99,3.8,21.0,0.9900000000000002,0.17
+5.0,5.49,4.6,24.0,0.4900000000000002,0.09
+9.89,10.99,4.6,118.0,1.0999999999999996,0.1
+12.49,24.99,3.0,56.0,12.499999999999998,0.5
+54.99,59.99,4.8,1139.0,5.0,0.08
+29.99,49.99,3.3,33.0,20.000000000000004,0.4
+5.0,5.99,4.4,213.0,0.9900000000000002,0.17
+19.99,33.99,3.8,33.0,14.000000000000004,0.41
+18.99,25.99,2.9,105.0,7.0,0.27
+8.54,9.49,5.0,9.0,0.9500000000000011,0.1
+19.79,21.99,4.9,26.0,2.1999999999999993,0.1
+8.39,11.99,3.9,14.0,3.5999999999999996,0.3
+4.94,5.49,4.5,111.0,0.5499999999999998,0.1
+9.99,19.99,4.0,37.0,9.999999999999998,0.5
+4.99,6.79,4.4,216.0,1.7999999999999998,0.27
+59.99,89.99,4.0,3.0,29.999999999999993,0.33
+8.79,9.79,4.2,18.0,1.0,0.1
+27.99,34.99,4.6,12.0,7.0000000000000036,0.2
+11.99,14.99,4.5,61.0,3.0,0.2
+27.19,33.99,4.7,193.0,6.800000000000001,0.2
+9.99,19.99,4.7,26.0,9.999999999999998,0.5
+27.19,33.99,4.8,507.0,6.800000000000001,0.2
+24.99,49.99,3.2,52.0,25.000000000000004,0.5
+9.99,16.99,4.7,105.0,6.999999999999998,0.41
+13.49,14.99,4.4,68.0,1.5,0.1
+51.29,56.99,4.7,495.0,5.700000000000003,0.1
+24.99,33.99,3.7,11.0,9.000000000000004,0.26
+44.99,52.99,4.7,15.0,8.0,0.15
+11.99,19.99,4.2,57.0,7.999999999999998,0.4
+9.99,12.99,4.2,38.0,3.0,0.23
+39.99,69.99,3.4,30.0,29.999999999999993,0.43
+8.09,8.99,4.0,95.0,0.9000000000000004,0.1
+19.99,39.99,3.0,2.0,20.000000000000004,0.5
+75.99,109.99,3.3,24.0,34.0,0.31
+8.54,9.49,3.9,582.0,0.9500000000000011,0.1
+11.69,12.99,4.3,122.0,1.3000000000000007,0.1
+24.99,34.99,3.5,73.0,10.000000000000004,0.29
+10.99,13.99,4.8,29.0,3.0,0.21
+9.89,10.99,4.6,2062.0,1.0999999999999996,0.1
+11.99,39.99,3.2,122.0,28.0,0.7
+5.99,7.99,4.6,443.0,2.0,0.25
+13.59,16.99,4.2,3893.0,3.3999999999999986,0.2
+16.99,34.99,4.8,36.0,18.000000000000004,0.51
+20.69,22.99,4.5,21.0,2.299999999999997,0.1
+9.89,10.99,4.6,52.0,1.0999999999999996,0.1
+19.99,39.99,4.8,26.0,20.000000000000004,0.5
+13.19,16.49,4.7,158.0,3.299999999999999,0.2
+19.99,39.99,4.7,38.0,20.000000000000004,0.5
+27.19,33.99,4.7,1018.0,6.800000000000001,0.2
+19.99,39.99,4.6,14.0,20.000000000000004,0.5
+14.99,19.99,4.6,117.0,4.999999999999998,0.25
+14.99,21.99,4.4,77.0,6.999999999999998,0.32
+29.99,59.99,3.8,31.0,30.000000000000004,0.5
+16.99,34.99,4.8,9.0,18.000000000000004,0.51
+19.99,34.99,3.8,38.0,15.000000000000004,0.43
+13.59,16.99,4.6,102.0,3.3999999999999986,0.2
+24.99,31.99,3.5,38.0,7.0,0.22
+8.99,9.99,4.3,14.0,1.0,0.1
+14.49,15.49,5.0,5.0,1.0,0.06
+34.99,39.99,4.6,13.0,5.0,0.13
+6.24,12.49,3.2,51.0,6.25,0.5
+24.49,34.99,4.9,289.0,10.500000000000004,0.3
+5.99,7.99,4.6,361.0,2.0,0.25
+49.99,59.99,4.8,5.0,10.0,0.17
+14.99,19.99,4.6,84.0,4.999999999999998,0.25
+5.39,5.99,4.8,17.0,0.6000000000000005,0.1
+12.59,13.99,4.3,112.0,1.4000000000000004,0.1
+7.49,14.99,2.9,69.0,7.5,0.5
+27.19,33.99,4.8,327.0,6.800000000000001,0.2
+19.99,34.99,3.9,85.0,15.000000000000004,0.43
+13.79,22.99,4.2,27.0,9.2,0.4
+18.89,26.99,4.1,43.0,8.099999999999998,0.3
+13.49,14.99,3.8,63.0,1.5,0.1
+13.59,16.99,4.7,136.0,3.3999999999999986,0.2
+13.99,18.99,4.9,2103.0,4.999999999999998,0.26
+5.99,7.99,4.6,471.0,2.0,0.25
+13.99,18.99,4.9,1593.0,4.999999999999998,0.26
+39.99,69.99,0.0,0.0,29.999999999999993,0.43
+20.69,22.99,4.4,585.0,2.299999999999997,0.1
+24.99,34.99,4.4,11.0,10.000000000000004,0.29
+26.99,29.99,4.5,2.0,3.0,0.1
+8.99,9.99,4.8,5.0,1.0,0.1
+11.69,12.99,3.6,22.0,1.3000000000000007,0.1
+8.99,9.99,4.3,18.0,1.0,0.1
+12.59,13.99,4.9,8.0,1.4000000000000004,0.1
+10.79,11.99,4.4,131.0,1.200000000000001,0.1
+33.49,41.99,4.0,22.0,8.5,0.2
+12.59,13.99,4.8,219.0,1.4000000000000004,0.1
+18.89,20.99,3.9,23.0,2.099999999999998,0.1
+14.99,49.99,3.9,44.0,35.0,0.7
+4.99,6.79,4.5,213.0,1.7999999999999998,0.27
+35.99,42.99,4.3,30.0,7.0,0.16
+39.99,49.99,2.5,2.0,10.0,0.2
+7.19,7.99,3.1,138.0,0.7999999999999998,0.1
+249.99,399.99,4.8,91.0,150.0,0.38
+99.99,349.99,4.2,102.0,250.0,0.71
+14.39,17.99,4.7,62.0,3.599999999999998,0.2
+69.99,89.99,5.0,1.0,20.0,0.22
+17.09,18.99,4.7,3719.0,1.8999999999999986,0.1
+16.19,17.99,3.0,3.0,1.7999999999999972,0.1
+16.19,17.99,3.3,7.0,1.7999999999999972,0.1
+14.99,19.99,4.5,73.0,4.999999999999998,0.25
+69.99,239.99,4.6,126.0,170.0,0.71
+14.99,24.99,4.1,22.0,9.999999999999998,0.4
+89.99,139.99,3.5,4.0,50.000000000000014,0.36
+89.99,139.99,3.5,4.0,50.000000000000014,0.36
+129.99,199.99,3.3,120.0,70.0,0.35
+99.99,349.99,4.7,75.0,250.0,0.71
+39.99,34.99,5.0,1.0,-5.0,-0.14
+16.99,7.99,4.0,41.0,-8.999999999999998,-1.13
+5.99,349.99,4.5,322.0,344.0,0.98
+99.99,69.99,4.6,172.0,-30.0,-0.43
+39.99,1999.99,2.3,3.0,1960.0,0.98
+1849.99,23.99,0.0,0.0,-1826.0,-76.12
+19.19,899.99,3.5,17.0,880.8,0.98
+499.99,999.99,3.8,5.0,500.0,0.5
+299.99,154.99,4.3,67.0,-145.0,-0.94
+129.99,599.99,4.3,108.0,470.0,0.78
+349.99,319.99,3.9,11.0,-30.0,-0.09
+159.99,1699.99,4.7,3.0,1540.0,0.91
+34.99,649.99,3.7,3.0,615.0,0.95
+1499.99,179.99,0.0,0.0,-1320.0,-7.33
+449.99,119.99,4.0,1.0,-330.0,-2.75
+99.99,69.99,4.8,13.0,-30.0,-0.43
+29.99,139.99,4.0,2.0,110.00000000000001,0.79
+95.99,149.99,3.5,118.0,54.000000000000014,0.36
+55.99,145.21051630434783,3.5,21.0,54.15413043478261,0.13505434782608697
+79.99,145.21051630434783,4.1,36.0,54.15413043478261,0.13505434782608697
+129.99,145.21051630434783,4.5,35.0,54.15413043478261,0.13505434782608697
+129.99,179.99,4.5,27.0,50.0,0.28
+44.99,159.99,4.6,126.0,115.0,0.72
+24.49,34.99,4.9,493.0,10.500000000000004,0.3
+59.99,89.99,4.1,8.0,29.999999999999993,0.33
+19.99,61.99,4.3,41.0,42.0,0.68
+24.49,34.99,4.7,211.0,10.500000000000004,0.3
+17.99,19.99,4.8,1240.0,2.0,0.1
+159.99,229.99,3.8,63.0,70.0,0.3
+29.99,44.99,3.0,3.0,15.000000000000004,0.33
+104.99,154.99,4.2,31.0,50.000000000000014,0.32
+79.99,149.99,4.6,17.0,70.00000000000001,0.47
+89.99,149.99,3.6,31.0,60.000000000000014,0.4
+249.99,409.99,4.2,20.0,160.0,0.39
+64.99,89.99,4.0,53.0,25.0,0.28
+129.99,149.99,4.4,27.0,20.0,0.13
+99.99,249.99,4.5,40.0,150.0,0.6
+24.49,34.99,4.8,472.0,10.500000000000004,0.3
+47.99,64.99,4.4,38.0,16.999999999999993,0.26
+13.59,16.99,4.3,6662.0,3.3999999999999986,0.2
+82.49,164.99,3.7,9.0,82.50000000000001,0.5
+49.99,129.99,4.4,39.0,80.0,0.62
+29.99,39.99,3.7,3.0,10.000000000000004,0.25
+24.49,34.99,4.9,637.0,10.500000000000004,0.3
+87.99,109.99,3.9,195.0,22.0,0.2
